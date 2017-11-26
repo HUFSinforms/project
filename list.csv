@@ -1,0 +1,565 @@
+,date,sedol,sector,beta,as,name_x,bw,mq,name2,name_y,type,nyse,Unnamed: 3
+0,2007.1.3,2000019,Consumer Discretionary,1,-1.35E-05,"Amazon.com, Inc.",0.000937567,2,Amazon,"Amazon.com, Inc",NASDAQ,AMZN,_- Consumer Discretionary / Internet Retail
+1,2007.1.3,2002305,Health Care,1,-3.39E-06,Abbott Laboratories,0.00589405,1,Abbott,Abbott Laboratories,NYSE,ABT,_- Health Care / Health Care Equipment & Services
+2,2007.1.3,2002479,Utilities,1,1.48E-05,AES Corporation,0.001142724,2,AES Co,AES Corp,NYSE,AES,_- Utilities / Independent Power Producers & Energy Traders
+3,2007.1.3,2005973,Information Technology,0.921277,1.48E-05,International Business Machines Corporation,0.011489978,1,Intern,International Business Machines Corp. ,NYSE,IBM,_- Information Technology / IT Consulting & Services
+4,2007.1.3,2005973,Information Technology,0.921277,1.48E-05,International Business Machines Corporation,0.011489978,1,Intern,International Paper Co ,NYSE,IP,_- Materials / Paper Products
+5,2007.1.3,2005973,Information Technology,0.921277,1.48E-05,International Business Machines Corporation,0.011489978,1,Intern,International Flavors & Fragrances Inc ,NYSE,IFF,_- Materials / Specialty Chemicals
+6,2007.1.3,2007849,Information Technology,1,1.52E-05,"Advanced Micro Devices, Inc.",0.000839758,3,Advanc,,,AMD,
+7,2007.1.3,2008154,Information Technology,1,-1.35E-05,Adobe Systems Incorporated,0.001826119,1,Adobe ,Adobe Systems Inc,NASDAQ,ADBE,_- Information Technology / Application Software
+8,2007.1.3,2011602,Materials,1,-1.23E-05,"Air Products and Chemicals, Inc.",0.001242495,2,Air Pr,"Air Products & Chemicals, Inc",NYSE,APD,_- Materials / Industrial Gases
+9,2007.1.3,2017213,Health Care,1,-1.88E-05,"Allergan, Inc.",0.001436493,2,Allerg,,,AGN,
+10,2007.1.3,2018175,Materials,1,-5.41E-06,E. I. du Pont de Nemours and Company,0.0035372,1,E. I. ,,NYSE,DD-PA,
+11,2007.1.3,2019479,Financials,1,9.14E-06,"Boston Properties, Inc.",0.001026864,2,Boston,"Boston Properties, Inc.",NYSE,BXP,_- Financials / REITs
+12,2007.1.3,2019479,Financials,1,9.14E-06,"Boston Properties, Inc.",0.001026864,2,Boston,Boston Scientific Corporation,NYSE,BSX,_- Health Care / Health Care Equipment & Services
+13,2007.1.3,2019952,Financials,1,9.55E-06,Allstate Corporation,0.003199143,1,Allsta,Allstate Corp,NYSE,ALL,_- Financials / Property & Casualty Insurance
+14,2007.1.3,2020459,Industrials,1.305809,1.08E-05,Honeywell International Inc.,0.002887699,1,Honeyw,Honeywell International Inc. ,NYSE,HON,_- Industrials / Industrial Conglomerates
+15,2007.1.3,2021690,Information Technology,1,1.24E-05,Altera Corporation,0.000556447,3,Altera,Altera Corporation,NASDAQ,ALTR,_- Information Technology / Semiconductors
+16,2007.1.3,2023607,Health Care,1,6.72E-06,Amgen Inc.,0.006256931,1,Amgen ,,,AMGN,
+17,2007.1.3,2023737,Financials,1,1.06E-06,Ambac Financial Group Inc.,0.00074727,3,Ambac ,,,AMBC,
+18,2007.1.3,2023748,Energy,0.810977,-1.55E-07,Hess Corporation,0.001010306,2,Hess C,Hess Corp. ,NYSE,HES,_- Energy / Integrated Oil & Gas
+19,2007.1.3,2024020,Utilities,1,6.54E-07,Allegheny Energy,0.000597175,3,Allegh,Allegheny Technologies Inc,NYSE,ATI,_- Materials / Diversified Metals & Mining
+20,2007.1.3,2026082,Financials,1,-7.03E-06,American Express Company,0.005702544,1,Americ,American Airlines Group Inc,NASDAQ,AAL,_- Industrials / Airlines
+21,2007.1.3,2026082,Financials,1,-7.03E-06,American Express Company,0.005702544,1,Americ,American Electric Power Company Inc,NYSE,AEP,_- Utilities / Electric Utilities
+22,2007.1.3,2026082,Financials,1,-7.03E-06,American Express Company,0.005702544,1,Americ,American Express Company,NYSE,AXP,_- Financials / Consumer Finance
+23,2007.1.3,2026082,Financials,1,-7.03E-06,American Express Company,0.005702544,1,Americ,American International Group Inc,NYSE,AIG,_- Financials / Property & Casualty Insurance
+24,2007.1.3,2026082,Financials,1,-7.03E-06,American Express Company,0.005702544,1,Americ,American Tower Corp,NYSE,AMT,_- Financials / Specialized REITs
+25,2007.1.3,2026242,Utilities,1,-1.55E-07,"American Electric Power Company, Inc.",0.001329203,2,Americ,American Airlines Group Inc,NASDAQ,AAL,_- Industrials / Airlines
+26,2007.1.3,2026242,Utilities,1,-1.55E-07,"American Electric Power Company, Inc.",0.001329203,2,Americ,American Electric Power Company Inc,NYSE,AEP,_- Utilities / Electric Utilities
+27,2007.1.3,2026242,Utilities,1,-1.55E-07,"American Electric Power Company, Inc.",0.001329203,2,Americ,American Express Company,NYSE,AXP,_- Financials / Consumer Finance
+28,2007.1.3,2026242,Utilities,1,-1.55E-07,"American Electric Power Company, Inc.",0.001329203,2,Americ,American International Group Inc,NYSE,AIG,_- Financials / Property & Casualty Insurance
+29,2007.1.3,2026242,Utilities,1,-1.55E-07,"American Electric Power Company, Inc.",0.001329203,2,Americ,American Tower Corp,NYSE,AMT,_- Financials / Specialized REITs
+30,2007.1.3,2026361,Financials,1,-4.60E-06,Aflac Incorporated,0.001793475,1,Aflac ,,,AFL,
+31,2007.1.3,2027104,Health Care,0.714784,-4.20E-06,Wyeth,0.005429151,1,Wyeth,,,,
+32,2007.1.3,2027342,Financials,1,-2.00E-05,"American International Group, Inc.",0.014708788,1,Americ,American Airlines Group Inc,NASDAQ,AAL,_- Industrials / Airlines
+33,2007.1.3,2027342,Financials,1,-2.00E-05,"American International Group, Inc.",0.014708788,1,Americ,American Electric Power Company Inc,NYSE,AEP,_- Utilities / Electric Utilities
+34,2007.1.3,2027342,Financials,1,-2.00E-05,"American International Group, Inc.",0.014708788,1,Americ,American Express Company,NYSE,AXP,_- Financials / Consumer Finance
+35,2007.1.3,2027342,Financials,1,-2.00E-05,"American International Group, Inc.",0.014708788,1,Americ,American International Group Inc,NYSE,AIG,_- Financials / Property & Casualty Insurance
+36,2007.1.3,2027342,Financials,1,-2.00E-05,"American International Group, Inc.",0.014708788,1,Americ,American Tower Corp,NYSE,AMT,_- Financials / Specialized REITs
+37,2007.1.3,2028572,Industrials,1,-1.55E-05,American Power Conversion Corporation,0.000405906,4,Americ,American Airlines Group Inc,NASDAQ,AAL,_- Industrials / Airlines
+38,2007.1.3,2028572,Industrials,1,-1.55E-05,American Power Conversion Corporation,0.000405906,4,Americ,American Electric Power Company Inc,NYSE,AEP,_- Utilities / Electric Utilities
+39,2007.1.3,2028572,Industrials,1,-1.55E-05,American Power Conversion Corporation,0.000405906,4,Americ,American Express Company,NYSE,AXP,_- Financials / Consumer Finance
+40,2007.1.3,2028572,Industrials,1,-1.55E-05,American Power Conversion Corporation,0.000405906,4,Americ,American International Group Inc,NYSE,AIG,_- Financials / Property & Casualty Insurance
+41,2007.1.3,2028572,Industrials,1,-1.55E-05,American Power Conversion Corporation,0.000405906,4,Americ,American Tower Corp,NYSE,AMT,_- Financials / Specialized REITs
+42,2007.1.3,2029809,Industrials,1,-1.77E-06,American Standard Companies Inc.,0.000622327,3,Americ,American Airlines Group Inc,NASDAQ,AAL,_- Industrials / Airlines
+43,2007.1.3,2029809,Industrials,1,-1.77E-06,American Standard Companies Inc.,0.000622327,3,Americ,American Electric Power Company Inc,NYSE,AEP,_- Utilities / Electric Utilities
+44,2007.1.3,2029809,Industrials,1,-1.77E-06,American Standard Companies Inc.,0.000622327,3,Americ,American Express Company,NYSE,AXP,_- Financials / Consumer Finance
+45,2007.1.3,2029809,Industrials,1,-1.77E-06,American Standard Companies Inc.,0.000622327,3,Americ,American International Group Inc,NYSE,AIG,_- Financials / Property & Casualty Insurance
+46,2007.1.3,2029809,Industrials,1,-1.77E-06,American Standard Companies Inc.,0.000622327,3,Americ,American Tower Corp,NYSE,AMT,_- Financials / Specialized REITs
+47,2007.1.3,2032067,Information Technology,1,-1.77E-06,"Analog Devices, Inc.",0.000880731,2,Analog,"Analog Devices, Inc.",NASDAQ,ADI,_- Information Technology / Semiconductors
+48,2007.1.3,2032380,Energy,1,9.95E-06,Anadarko Petroleum Corporation,0.001522481,2,Anadar,Anadarko Petroleum Corporation,NYSE,APC,_- Energy / Oil & Gas Exploration & Production
+49,2007.1.3,2033004,Consumer Staples,1,1.36E-05,Anheuser-Busch Companies Inc.,0.002967427,1,Anheus,,BUD,,
+50,2007.1.3,2034494,Telecommunication Services,1.216532,1.44E-05,Qwest Communications International Inc,0.001060514,2,Qwest ,,JCS,,
+51,2007.1.3,2034524,Information Technology,1,-6.22E-06,Affiliated Computer Services Inc. Cl A,0.000457003,4,Affili,"Affiliated Managers Group, Inc",NYSE,AMG,_- Financials / Asset Management & Custody Banks
+52,2007.1.3,2038430,Financials,1,3.48E-06,Equity Office Properties Trust,0.001327696,2,Equity,Equity Residential,NYSE,EQR,_- Financials / REITs
+53,2007.1.3,2039831,Industrials,1,8.74E-06,Allied Waste Industries Inc.,0.000246305,5,Allied,,,,
+54,2007.1.3,2041364,Energy,1.006387,-1.37E-06,Valero Energy Corporation,0.002373007,1,Valero,Valero Energy Corporation ,NYSE,VLO,_- Energy / Oil & Gas Refining & Marketing & Transportation
+55,2007.1.3,2043694,Consumer Discretionary,1,-8.65E-06,"Apollo Education Group, Inc. Class A",0.000445881,4,Apollo,,,,
+56,2007.1.3,2043962,Energy,1,-5.81E-06,Apache Corporation,0.001667442,2,Apache,Apache Corporation,NYSE,APA,_- Energy / Oil & Gas Exploration & Production
+57,2007.1.3,2044545,Consumer Discretionary,0.827693,9.55E-06,Comcast Corporation Class A,0.006965536,1,Comcas,Comcast Corporation,NASDAQ,CMCSA,_- Consumer Discretionary / Broadcasting & Cable TV
+58,2007.1.3,2046251,Information Technology,1,-1.47E-05,Apple Computer Inc.,0.005586359,1,Apple ,Apple Inc.,NASDAQ,AAPL,_- Information Technology / Computer Hardware
+59,2007.1.3,2046552,Information Technology,1,1.36E-05,"Applied Materials, Inc.",0.002006224,1,Applie,"Applied Materials, Inc.",NASDAQ,AMAT,_- Information Technology / Semiconductor Equipment
+60,2007.1.3,2047317,Consumer Staples,1,5.10E-06,Archer-Daniels-Midland Company,0.001652362,2,Archer,Archer Daniels Midland Company,NYSE,ADM,_- Consumer Staples / Agricultural Products
+61,2007.1.3,2048804,Utilities,0.597295,5.91E-06,Pinnacle West Capital Corporation,0.000403315,4,Pinnac,Pinnacle West Capital Corporation ,NYSE,PNW,_- Utilities / MultiUtilities
+62,2007.1.3,2050832,Utilities,1,-4.20E-06,Ameren Corporation,0.000873427,3,Ameren,Ameren Corp,NYSE,AEE,_- Utilities / MultiUtilities
+63,2007.1.3,2057059,Financials,1,-9.63E-07,Apartment Investment and Management Company Class A,0.000422212,4,Apartm,Apartment Investment and Management Co,NYSE,AIV,_- Financials / Residential REITs
+64,2007.1.3,2065159,Information Technology,1,-6.62E-06,"Autodesk, Inc.",0.00073695,3,Autode,,,ADSK,
+65,2007.1.3,2065308,Information Technology,0.626906,-1.43E-05,"Automatic Data Processing, Inc.",0.002090213,1,Automa,Automatic Data Processing,NASDAQ,ADP,_- Information Technology / Internet Software & Services
+66,2007.1.3,2065955,Consumer Discretionary,1,7.12E-06,"AutoZone, Inc.",0.000470877,3,AutoZo,"AutoZone, Inc.",NYSE,AZO,_- Consumer Discretionary / Specialty Stores
+67,2007.1.3,2066408,Materials,1,-9.63E-07,Avery Dennison Corporation,0.000503987,4,Avery ,Avery Dennison Corp,NYSE,AVY,_- Materials / Paper Packaging
+68,2007.1.3,2066721,Consumer Staples,1,-3.39E-06,"Avon Products, Inc.",0.001171312,2,Avon P,,,AVP,
+69,2007.1.3,2068921,Information Technology,1.607709,1.76E-05,"BMC Software, Inc.",0.000539252,3,BMC So,,,,
+70,2007.1.3,2069065,Energy,1,1.08E-05,BJ Services Co,0.000646196,3,BJ Ser,,,,
+71,2007.1.3,2073022,Materials,1,-1.63E-05,Ball Corporation,0.000360458,4,Ball C,Ball Corporation,NYSE,BLL,_- Materials / Metal & Glass Containers
+72,2007.1.3,2073408,Utilities,1,1.40E-05,Constellation Energy Group Inc.,0.000990506,2,Conste,"Constellation Brands, Inc.",NYSE,STZ,_- Consumer Staples / Distillers & Vintners
+73,2007.1.3,2077905,Health Care,1,6.31E-06,"C. R. Bard, Inc.",0.000669474,3,C. R. ,,,,
+74,2007.1.3,2081779,Health Care,0.325358,3.48E-06,Barr Pharmaceuticals Inc.,0.00042164,4,Barr P,,,,
+75,2007.1.3,2084637,Health Care,1,-1.63E-05,Bausch & Lomb Inc.,0.000221237,5,Bausch,,,,
+76,2007.1.3,2085102,Health Care,1,7.53E-06,Baxter International Inc.,0.002386425,1,Baxter,Baxter International Inc.,NYSE,BAX,_- Health Care / Health Care Equipment & Services
+77,2007.1.3,2085878,Consumer Discretionary,1,-6.22E-06,Bed Bath & Beyond Inc.,0.000848769,3,Bed Ba,Bed Bath & Beyond Inc.,NASDAQ,BBBY,_- Consumer Discretionary / Specialty Stores
+78,2007.1.3,2086138,Financials,1,6.72E-06,Bear Stearns Companies,0.001497914,2,Bear S,,,,
+79,2007.1.3,2087807,Health Care,1,1.46E-06,"Becton, Dickinson and Company",0.001362165,2,Becton,"Becton, Dickinson and Co.",NYSE,BDX,_- Health Care / Health Care Equipment & Services
+80,2007.1.3,2090173,Materials,1,-2.58E-06,"Bemis Company, Inc.",0.000284446,5,Bemis ,,,BMS,
+81,2007.1.3,2090571,Telecommunication Services,0.689147,-9.05E-06,Verizon Communications Inc.,0.008658567,1,Verizo,Verizon Communications Inc. ,NYSE,VZ,_- Telecommunications Services / Integrated Telecommunications Services
+82,2007.1.3,2094670,Consumer Discretionary,1,2.50E-07,"Best Buy Co., Inc.",0.001551987,2,Best B,Best Buy Co Inc,NYSE,BBY,_- Consumer Discretionary / Computer & Electronics Retail
+83,2007.1.3,2098597,Health Care,1,-1.39E-05,Biomet Inc.,0.000796472,3,Biomet,,,,
+84,2007.1.3,2098876,Consumer Discretionary,0.909656,7.93E-06,"Yum! Brands, Inc.",0.001223501,2,Yum! B,"Yum! Brands, Inc. ",NYSE,YUM,_- Consumer Discretionary / Restaurants
+85,2007.1.3,2100920,Utilities,0.51162,4.70E-06,FirstEnergy Corp.,0.001513397,2,FirstE,FirstEnergy Corp. ,NYSE,FE,_- Utilities / Electric Utilities
+86,2007.1.3,2101503,Consumer Discretionary,1,1.28E-05,Black & Decker Corporation,0.000427988,4,Black ,,,,
+87,2007.1.3,2101967,Financials,0.441271,-1.67E-05,SLM Corp,0.001529617,2,SLM Co,,,SLM,
+88,2007.1.3,2105505,Consumer Discretionary,1,-1.35E-05,"H&R Block, Inc.",0.000586364,3,H&R Bl,,,HRB,
+89,2007.1.3,2108601,Industrials,1,1.40E-05,Boeing Company,0.005529216,1,Boeing,Boeing Co,NYSE,BA,_- Industrials / Aerospace & Defense
+90,2007.1.3,2109002,Consumer Discretionary,1.314239,9.55E-06,OfficeMax Incorporated,0.00029096,5,Office,,,,
+91,2007.1.3,2110703,Industrials,1.513225,3.08E-06,Robert Half International Inc.,0.000508954,4,Robert,Robert Half International Inc. ,NYSE,RHI,
+92,2007.1.3,2113434,Health Care,1,-2.58E-06,Boston Scientific Corporation,0.001563628,2,Boston,"Boston Properties, Inc.",NYSE,BXP,_- Financials / REITs
+93,2007.1.3,2113434,Health Care,1,-2.58E-06,Boston Scientific Corporation,0.001563628,2,Boston,Boston Scientific Corporation,NYSE,BSX,_- Health Care / Health Care Equipment & Services
+94,2007.1.3,2126335,Health Care,1,-1.19E-05,Bristol-Myers Squibb Company,0.004068487,1,Bristo,,,BMY,
+95,2007.1.3,2138158,Utilities,0.890773,2.68E-06,Sempra Energy,0.001167134,2,Sempra,Sempra Energy ,NYSE,SRE,_- Utilities / MultiUtilities
+96,2007.1.3,2142784,Industrials,1.107268,1.87E-06,FedEx Corporation,0.002639468,1,FedEx ,FedEx Corporation ,NYSE,FDX,_- Industrials / Air Freight & Logistics
+97,2007.1.3,2142922,Information Technology,2.033501,-1.19E-05,"VeriSign, Inc.",0.000462703,4,VeriSi,,,VRSN,
+98,2007.1.3,2146838,Consumer Staples,1,-5.41E-06,Brown-Forman Corporation Class B,0.000409779,5,Brown-,Brown-Forman Corporation,NYSE,BF.B,_- Consumer Staples / Distillers & Vintners
+99,2007.1.3,2149309,Consumer Discretionary,1,-2.18E-06,Brunswick Corporation,0.000229804,5,Brunsw,,,BC,
+100,2007.1.3,2154927,Industrials,1,-9.45E-06,Burlington Northern,0.002078811,1,Burlin,,,BNSF,
+101,2007.1.3,2160753,Industrials,1,-1.55E-07,CSX Corporation,0.001185536,2,CSX Co,CSX Corporation,NYSE,CSX,_- Industrials / Railroads
+102,2007.1.3,2162845,Consumer Staples,1,-9.63E-07,Campbell Soup Company,0.000662658,3,Campbe,Campbell Soup Company,NYSE,CPB,_- Financials / Consumer Finance
+103,2007.1.3,2170473,Consumer Staples,0.668848,-7.84E-06,"Constellation Brands, Inc. Class A",0.000467863,4,Conste,"Constellation Brands, Inc.",NYSE,STZ,_- Consumer Staples / Distillers & Vintners
+104,2007.1.3,2175672,Health Care,1,1.06E-06,"Cardinal Health, Inc.",0.002033281,1,Cardin,Cardinal Health Inc,NYSE,CAH,_- Health Care / Health Care Distributors & Services
+105,2007.1.3,2180201,Industrials,1,-3.39E-06,Caterpillar Inc.,0.003119976,1,Caterp,Caterpillar Inc.,NYSE,CAT,_- Industrials / Construction & Farm Machinery & Heavy Trucks
+106,2007.1.3,2182348,Health Care,1,-1.55E-05,Celgene Corporation,0.001671169,2,Celgen,Celgene Corporation,NASDAQ,CELG,_- Health Care / Biotechnology
+107,2007.1.3,2182553,Information Technology,1,8.74E-06,"Citrix Systems, Inc.",0.000379941,4,Citrix,"Citrix Systems, Inc.",NASDAQ,CTXS,_- Information Technology / Internet Software & Services
+108,2007.1.3,2182779,Energy,1,9.55E-06,Chesapeake Energy Corporation,0.000907652,2,Chesap,Chesapeake Energy Corporation,NYSE,CHK,_- Energy / Integrated Oil & Gas
+109,2007.1.3,2183244,Consumer Discretionary,1,-1.88E-05,Centex Corp.,0.000509956,3,Centex,,,,
+110,2007.1.3,2183330,Financials,1,9.14E-06,Compass Bancshares,0.00061636,3,Compas,,,,
+111,2007.1.3,2185046,Telecommunication Services,1,1.20E-05,"CenturyLink, Inc.",0.000393628,4,Centur,Centurylink Inc,NYSE,CTL,_- Telecommunications Services / Integrated Telecommunications Services
+112,2007.1.3,2190385,Financials,1.139726,-7.03E-06,JPMorgan Chase & Co.,0.013076363,1,JPMorg,JPMorgan Chase & Co. ,NYSE,JPM,_- Financials / Banks
+113,2007.1.3,2192295,Financials,1,-7.84E-06,Commerce Bancorp NJ,0.000522365,4,Commer,,,,
+114,2007.1.3,2195722,Financials,1,9.95E-06,Chubb Corporation,0.001721832,2,Chubb ,Chubb Corp,NYSE,CB,_- Financials / Property & Casualty Insurance
+115,2007.1.3,2196479,Health Care,1,9.14E-06,Cigna Corporation,0.001058946,2,Cigna ,,,CI,
+116,2007.1.3,2196888,Financials,1,-3.79E-06,Cincinnati Financial Corporation,0.000622225,3,Cincin,Cincinnati Financial Corporation,NASDAQ,CINF,_- Financials / Property & Casualty Insurance
+117,2007.1.3,2197137,Industrials,1,-2.58E-06,Cintas Corporation,0.000432687,4,Cintas,Cintas Corporation,NASDAQ,CTAS,_- Industrials / Diversified Support Services
+118,2007.1.3,2198163,Information Technology,1.191904,1.20E-05,"Cisco Systems, Inc.",0.01321002,1,Cisco ,"Cisco Systems, Inc.",NASDAQ,CSCO,_- Information Technology / Networking Equipment
+119,2007.1.3,2199326,Consumer Discretionary,1,1.68E-05,"Circuit City Stores, Inc.",0.000212171,5,Circui,,,,
+120,2007.1.3,2202536,Consumer Discretionary,1,1.08E-05,Clear Channel Communications Inc.,0.00137503,2,Clear ,,,,
+121,2007.1.3,2204026,Consumer Staples,1,1.16E-05,Clorox Company,0.000762881,3,Clorox,Clorox Co,NYSE,CLX,_- Consumer Staples / Household Products
+122,2007.1.3,2206657,Consumer Staples,1,1.12E-05,Coca-Cola Company,0.007768021,1,Coca-C,Coca-Cola Enterprises Inc,NYSE,CCE,_- Consumer Staples / Soft Drinks
+123,2007.1.3,2209106,Consumer Staples,1,6.31E-06,Colgate-Palmolive Company,0.00264899,1,Colgat,Colgate-Palmolive Company,NYSE,CL,_- Consumer Staples / Household Products
+124,2007.1.3,2210614,Consumer Discretionary,1.040079,-7.43E-06,"Marriott International, Inc. Class A",0.001247636,2,Marrio,Marriott International Inc ,NASDAQ,MAR,"_- Consumer Discretionary / Hotels, Resorts & Cruise Lines"
+125,2007.1.3,2212870,Financials,1,1.04E-05,Comerica Incorporated,0.000737207,3,Comeri,Comerica Incorporated,NYSE,CMA,_- Financials / Banks
+126,2007.1.3,2214832,Information Technology,1.331814,-1.15E-05,"CA, Inc.",0.000751043,3,"CA, In","CA, Inc.",NASDAQ,CA,_- Information Technology / Systems Software
+127,2007.1.3,2215460,Consumer Staples,1,1.87E-06,"ConAgra Foods, Inc.",0.001078837,2,ConAgr,ConAgra Foods Inc,NYSE,CAG,_- Consumer Staples / Packaged Foods & Meats
+128,2007.1.3,2216850,Utilities,1,-2.00E-05,"Consolidated Edison, Inc.",0.000974438,2,Consol,"Consolidated Edison, Inc.",NYSE,ED,_- Utilities / Electric Utilities
+129,2007.1.3,2218447,Consumer Discretionary,1.594624,1.84E-05,"Big Lots, Inc.",0.000196108,5,Big Lo,,,,
+130,2007.1.3,2219224,Utilities,1,-3.39E-06,CMS Energy Corporation,0.000293214,4,CMS En,CMS Energy Corporation,NYSE,CMS,_- Utilities / MultiUtilities
+131,2007.1.3,2220884,Information Technology,1,1.44E-05,Compuware Corporation,0.000232849,5,Compuw,,,,
+132,2007.1.3,2224701,Information Technology,1,5.10E-06,Corning Incorporated,0.002312309,1,Cornin,Corning Incorporated,NYSE,GLW,_- Industrials / Construction & Engineering
+133,2007.1.3,2229676,Financials,1.077508,-1.83E-05,Countrywide Financial Corp.,0.002050894,1,Countr,,,,
+134,2007.1.3,2232696,Health Care,0.89358,1.20E-05,Coventry Health Care Inc.,0.000622438,3,Covent,,,,
+135,2007.1.3,2232793,Materials,1.13538,-5.81E-06,Sealed Air Corporation,0.000412196,4,Sealed,Sealed Air Corp ,NYSE,SEE,_- Materials / Paper Packaging
+136,2007.1.3,2235822,Information Technology,1,-1.03E-05,Broadcom Corporation Class A,0.001194071,2,Broadc,Broadcom Corporation,NASDAQ,BRCM,_- Information Technology / Semiconductors
+137,2007.1.3,2236911,Energy,0.816169,1.20E-05,XTO Energy Inc,0.001281234,2,XTO En,,,,
+138,2007.1.3,2240202,Industrials,1.33629,1.32E-05,Cummins Inc.,0.000485057,4,Cummin,Cummins Inc.,NYSE,CMI,_- Industrials / Industrial Machinery
+139,2007.1.3,2246288,Financials,0.936847,-2.58E-06,"Federated Investors, Inc. Class B",0.000242179,5,Federa,,,FII,
+140,2007.1.3,2249629,Utilities,0.676121,3.48E-06,Keyspan Corporation,0.000567405,3,Keyspa,,,,
+141,2007.1.3,2250687,Consumer Discretionary,1,-1.03E-05,"D.R. Horton, Inc.",0.000563535,3,D.R. H,"D.R. Horton, Inc.",NYSE,DHI,_- Consumer Discretionary / Homebuilding
+142,2007.1.3,2250870,Industrials,1,1.46E-06,Danaher Corporation,0.001331648,2,Danahe,Danaher Corporation,NYSE,DHR,_- Industrials / Industrial Machinery
+143,2007.1.3,2252058,Financials,0.898776,-1.83E-05,Moody's Corporation,0.001296044,2,Moody',Moody's Corporation ,NYSE,MCO,_- Financials / Diversified Financial Services
+144,2007.1.3,2256511,Health Care,0.887539,1.76E-05,IMS Health Inc.,0.000429489,4,IMS He,,,IMS,
+145,2007.1.3,2257019,Information Technology,1,-5.81E-06,Cognizant Technology Solutions Corporation Class A,0.000864619,3,Cogniz,Cognizant Technology Solutions Corp,NASDAQ,CTSH,_- Information Technology / IT Consulting & Services
+146,2007.1.3,2259101,Consumer Discretionary,0.979991,-9.05E-06,Target Corporation,0.003851182,1,Target,Target Corporation ,NYSE,TGT,_- Consumer Discretionary / General Merchandise Stores
+147,2007.1.3,2259468,Health Care,0.806957,1.88E-05,King Pharmaceuticals,0.000305987,4,King P,,,KG,
+148,2007.1.3,2261203,Industrials,1,-1.31E-05,Deere & Company,0.001694785,2,Deere ,Deere & Company,NYSE,DE,_- Industrials / Construction & Farm Machinery & Heavy Trucks
+149,2007.1.3,2261526,Information Technology,1,1.32E-05,Dell Inc.,0.004540652,1,Dell I,,,,
+150,2007.1.3,2262314,Financials,1.419371,7.93E-06,Morgan Stanley,0.006775246,1,Morgan,Morgan Stanley ,NYSE,MS,_- Financials / Investment Banking & Brokerage
+151,2007.1.3,2269768,Consumer Discretionary,1,-1.55E-07,"Dillard's, Inc. Class A",0.000164126,5,Dillar,,,DDS,
+152,2007.1.3,2270726,Consumer Discretionary,1,1.48E-05,Walt Disney Company,0.005547361,1,Walt D,Walt Disney Co ,NYSE,DIS,_- Consumer Discretionary / Broadcasting & Cable TV
+153,2007.1.3,2272205,Consumer Discretionary,1,-1.31E-05,Dollar General Corp.,0.000401779,4,Dollar,Dollar General Corp.,NYSE,DG,_- Consumer Discretionary / General Merchandise Stores
+154,2007.1.3,2272205,Consumer Discretionary,1,-1.31E-05,Dollar General Corp.,0.000401779,4,Dollar,"Dollar Tree, Inc.",NASDAQ,DLTR,_- Consumer Discretionary / General Merchandise Stores
+155,2007.1.3,2278407,Industrials,1,1.32E-05,Dover Corporation,0.000781287,3,Dover ,Dover Corp,NYSE,DOV,_- Industrials / Industrial Machinery
+156,2007.1.3,2279002,Consumer Discretionary,1,-1.96E-05,Dow Jones & Company Inc.,0.000190173,5,Dow Jo,,,^DJI,
+157,2007.1.3,2279303,Consumer Discretionary,0.806644,1.52E-05,Omnicom Group Inc,0.001360662,2,Omnico,Omnicom Group Inc. ,NYSE,OMC,_- Consumer Discretionary / Advertising
+158,2007.1.3,2280220,Utilities,1,5.51E-06,DTE Energy Company,0.000686615,3,DTE En,DTE Energy Co,NYSE,DTE,_- Utilities / MultiUtilities
+159,2007.1.3,2284761,Information Technology,1,1.84E-05,Convergys Corporation,0.000265159,5,Conver,,,CVG,
+160,2007.1.3,2289874,Consumer Discretionary,1,-1.55E-07,"Darden Restaurants, Inc.",0.000464234,4,Darden,"Darden Restaurants, Inc.",NYSE,DRI,_- Consumer Discretionary / Restaurants
+161,2007.1.3,2293819,Information Technology,1,-6.62E-06,eBay Inc.,0.00273756,1,eBay I,eBay Inc,NASDAQ,EBAY,_- Information Technology / Internet Software & Services
+162,2007.1.3,2295172,Information Technology,1,1.68E-05,EMC Corporation,0.002279735,1,EMC Co,EMC Corporation,NYSE,EMC,_- Information Technology / IT Consulting & Services
+163,2007.1.3,2295677,Financials,1,1.36E-05,Bank of America Corporation,0.018780116,1,Bank o,Bank of America Corp,NYSE,BAC,_- Financials / Banks
+164,2007.1.3,2295677,Financials,1,1.36E-05,Bank of America Corporation,0.018780116,1,Bank o,Bank of New York Mellon Corp,NYSE,BK,_- Financials / Banks
+165,2007.1.3,2295945,Energy,1.676511,-3.39E-06,El Paso Corp.,0.000819216,3,El Pas,,,EE,
+166,2007.1.3,2297907,Financials,1,4.29E-06,Citigroup Inc.,0.021288831,1,Citigr,Citigroup Inc,NYSE,C,_- Financials / Banks
+167,2007.1.3,2298386,Materials,1,2.68E-06,Eastman Chemical Company,0.000387478,4,Eastma,Eastman Chemical Company,NYSE,EMN,_- Materials / Diversified Chemicals
+168,2007.1.3,2299011,Financials,2.14769,-8.24E-06,E*TRADE Financial Corporation,0.00076704,3,E*TRAD,E*TRADE Financial Corp,NASDAQ,ETFC,_- Financials / Investment Banking & Brokerage
+169,2007.1.3,2300601,Information Technology,1,1.12E-05,Eastman Kodak Company,0.000583726,3,Eastma,Eastman Chemical Company,NYSE,EMN,_- Materials / Diversified Chemicals
+170,2007.1.3,2304227,Materials,1,-8.24E-06,Ecolab Inc.,0.000622258,3,Ecolab,Ecolab Inc.,NYSE,ECL,_- Materials / Specialty Chemicals
+171,2007.1.3,2305844,Health Care,1.634148,1.48E-05,"PerkinElmer, Inc.",0.000211084,5,Perkin,"PerkinElmer, Inc. ",NYSE,PKI,_- Health Care / Health Care Equipment & Services
+172,2007.1.3,2310194,Information Technology,1,-1.67E-05,Electronic Arts Inc.,0.001234974,2,Electr,Electronic Arts Inc.,NASDAQ,EA,_- Information Technology / Home Entertainment Software
+173,2007.1.3,2312736,Information Technology,1,-7.84E-06,Electronic Data Systems Corp.,0.001106869,2,Electr,Electronic Arts Inc.,NASDAQ,EA,_- Information Technology / Home Entertainment Software
+174,2007.1.3,2313405,Industrials,1,9.95E-06,Emerson Electric Co.,0.002759663,1,Emerso,Emerson Electric Co.,NYSE,EMR,_- Industrials / Industrial Conglomerates
+175,2007.1.3,2317087,Utilities,1,-1.27E-05,Entergy Corporation,0.00150828,2,Enterg,Entergy Corporation,NYSE,ETR,_- Utilities / Electric Utilities
+176,2007.1.3,2318024,Energy,1,-3.79E-06,"EOG Resources, Inc.",0.001158151,2,EOG Re,EOG Resources Inc,NYSE,EOG,_- Energy / Oil & Gas Exploration & Production
+177,2007.1.3,2319146,Industrials,1,1.68E-05,Equifax Inc.,0.000392585,4,Equifa,Equifax Inc.,NYSE,EFX,_- Financials / Diversified Financial Services
+178,2007.1.3,2319157,Financials,1,7.12E-06,Equity Residential,0.001164204,2,Equity,Equity Residential,NYSE,EQR,_- Financials / REITs
+179,2007.1.3,2320524,Consumer Staples,0.807372,1.52E-05,Estee Lauder Companies Inc. Class A,0.000410336,4,Estee ,Estee Lauder Companies Inc,NYSE,EL,_- Consumer Staples / Personal Products
+180,2007.1.3,2326618,Energy,0.656906,-9.63E-07,Exxon Mobil Corporation,0.033895689,1,Exxon ,Exxon Mobil Corporation ,NYSE,XOM,_- Energy / Integrated Oil & Gas
+181,2007.1.3,2328915,Utilities,0.590866,-9.86E-06,FPL Group Inc.,0.001746676,2,FPL Gr,,,NEE-PC,
+182,2007.1.3,2331225,Consumer Discretionary,1.228682,1.36E-05,"Family Dollar Stores, Inc.",0.000351254,4,Family,"Family Dollar Stores, Inc. ",NYSE,FDO,_- Consumer Discretionary / General Merchandise Stores
+183,2007.1.3,2333889,Financials,0.920822,1.60E-05,Federal National Mortgage Association,0.004576977,1,Federa,,,FNMA,
+184,2007.1.3,2334150,Financials,0.881268,-6.62E-06,Federal Home Loan Mortgage Corporation,0.003689376,1,Federa,,,FMCC,
+185,2007.1.3,2336747,Financials,0.833387,-2.98E-06,Fifth Third Bancorp,0.001793376,2,Fifth ,Fifth Third Bancorp ,NASDAQ,FITB,_- Financials / Banks
+186,2007.1.3,2340168,Financials,0.848476,1.20E-05,M&T Bank Corporation,0.000745273,3,M&T Ba,M&T Bank Corporation ,NYSE,MTB,_- Financials / Banks
+187,2007.1.3,2341484,Financials,0.704413,-1.92E-05,First Horizon National Corporation,0.000407178,4,First ,"First Solar, Inc. ",NASDAQ,FSLR,_- Information Technology / Semiconductors
+188,2007.1.3,2341860,Financials,0.706692,8.74E-06,Wachovia Corp.,0.008491172,1,Wachov,,,,
+189,2007.1.3,2342034,Information Technology,0.838594,-5.41E-06,"Fiserv, Inc.",0.000700323,3,Fiserv,Fiserv Inc ,NASDAQ,FISV,_- Information Technology / Internet Software & Services
+190,2007.1.3,2344331,Information Technology,0.746148,4.70E-06,First Data Corp.,0.001522318,2,First ,"First Solar, Inc. ",NASDAQ,FSLR,_- Information Technology / Semiconductors
+191,2007.1.3,2345022,Consumer Discretionary,1.447384,1.52E-05,Federated Department Stores Inc.,0.00154475,2,Federa,,,,
+192,2007.1.3,2346508,Health Care,0.707278,1.20E-05,"Forest Laboratories, Inc.",0.001246805,2,Forest,,,,
+193,2007.1.3,2350684,Financials,1.521917,-6.22E-06,"Franklin Resources, Inc.",0.001482148,2,Frankl,"Franklin Resources, Inc. ",NYSE,BEN,_- Financials / Asset Management & Custody Banks
+194,2007.1.3,2352118,Materials,1.852176,1.88E-05,"Freeport-McMoRan, Inc.",0.000779698,3,Freepo,Freeport-McMoRan Inc ,NYSE,FCX,
+195,2007.1.3,2360326,Consumer Discretionary,1.377764,1.32E-05,"Gap, Inc.",0.000797863,2,"Gap, I",,,GPS,
+196,2007.1.3,2365161,Industrials,0.877487,8.74E-06,General Dynamics Corporation,0.002346525,1,Genera,General Dynamics Corporation ,NYSE,GD,_- Industrials / Aerospace & Defense
+197,2007.1.3,2365161,Industrials,0.877487,8.74E-06,General Dynamics Corporation,0.002346525,1,Genera,General Electric Company ,NYSE,GE,_- Industrials / Industrial Conglomerates
+198,2007.1.3,2365161,Industrials,0.877487,8.74E-06,General Dynamics Corporation,0.002346525,1,Genera,General Growth Properties Inc ,NYSE,GGP,_- Financials / REITs
+199,2007.1.3,2365161,Industrials,0.877487,8.74E-06,General Dynamics Corporation,0.002346525,1,Genera,"General Mills, Inc. ",NYSE,GIS,_- Consumer Staples / Packaged Foods & Meats
+200,2007.1.3,2365161,Industrials,0.877487,8.74E-06,General Dynamics Corporation,0.002346525,1,Genera,General Motors Company ,NYSE,GM,_- Consumer Discretionary / Automobile Manufacturers
+201,2007.1.3,2365804,Consumer Discretionary,1,-1.03E-05,General Motors Corporation,0.001306222,2,Genera,General Dynamics Corporation ,NYSE,GD,_- Industrials / Aerospace & Defense
+202,2007.1.3,2365804,Consumer Discretionary,1,-1.03E-05,General Motors Corporation,0.001306222,2,Genera,General Electric Company ,NYSE,GE,_- Industrials / Industrial Conglomerates
+203,2007.1.3,2365804,Consumer Discretionary,1,-1.03E-05,General Motors Corporation,0.001306222,2,Genera,General Growth Properties Inc ,NYSE,GGP,_- Financials / REITs
+204,2007.1.3,2365804,Consumer Discretionary,1,-1.03E-05,General Motors Corporation,0.001306222,2,Genera,"General Mills, Inc. ",NYSE,GIS,_- Consumer Staples / Packaged Foods & Meats
+205,2007.1.3,2365804,Consumer Discretionary,1,-1.03E-05,General Motors Corporation,0.001306222,2,Genera,General Motors Company ,NYSE,GM,_- Consumer Discretionary / Automobile Manufacturers
+206,2007.1.3,2367026,Consumer Staples,0.342565,1.88E-05,"General Mills, Inc.",0.001545038,2,Genera,General Dynamics Corporation ,NYSE,GD,_- Industrials / Aerospace & Defense
+207,2007.1.3,2367026,Consumer Staples,0.342565,1.88E-05,"General Mills, Inc.",0.001545038,2,Genera,General Electric Company ,NYSE,GE,_- Industrials / Industrial Conglomerates
+208,2007.1.3,2367026,Consumer Staples,0.342565,1.88E-05,"General Mills, Inc.",0.001545038,2,Genera,General Growth Properties Inc ,NYSE,GGP,_- Financials / REITs
+209,2007.1.3,2367026,Consumer Staples,0.342565,1.88E-05,"General Mills, Inc.",0.001545038,2,Genera,"General Mills, Inc. ",NYSE,GIS,_- Consumer Staples / Packaged Foods & Meats
+210,2007.1.3,2367026,Consumer Staples,0.342565,1.88E-05,"General Mills, Inc.",0.001545038,2,Genera,General Motors Company ,NYSE,GM,_- Consumer Discretionary / Automobile Manufacturers
+211,2007.1.3,2367480,Consumer Discretionary,0.824342,-7.84E-06,Genuine Parts Company,0.000635392,3,Genuin,Genuine Parts Company ,NYSE,GPC,_- Consumer Discretionary / Specialty Stores
+212,2007.1.3,2367598,Health Care,0.898818,-9.63E-07,Genzyme Corp.,0.00128107,2,Genzym,,,,
+213,2007.1.3,2369174,Health Care,1.121869,9.14E-06,"Gilead Sciences, Inc.",0.002277098,1,Gilead,"Gilead Sciences, Inc. ",NASDAQ,GILD,_- Health Care / Biotechnology
+214,2007.1.3,2377809,Industrials,1.33693,-1.23E-05,Goodrich Corp.,0.000447304,4,Goodri,,,,
+215,2007.1.3,2378200,Consumer Discretionary,2.381742,-1.63E-05,Goodyear Tire & Rubber Company,0.000317315,5,Goodye,Goodyear Tire & Rubber Co ,NASDAQ,GT,_- Consumer Discretionary / Tires & Rubber
+216,2007.1.3,2378534,Health Care,0.914414,1.84E-05,McKesson Corporation,0.001193649,2,McKess,McKesson Corporation ,NYSE,MCK,_- Health Care / Health Care Distributors & Services
+217,2007.1.3,2379504,Information Technology,1.833247,3.48E-06,NVIDIA Corporation,0.00100645,2,NVIDIA,NVIDIA Corporation ,NASDAQ,NVDA,_- Information Technology / Semiconductors
+218,2007.1.3,2380498,Industrials,0.717254,-2.58E-06,General Electric Company,0.030692559,1,Genera,General Dynamics Corporation ,NYSE,GD,_- Industrials / Aerospace & Defense
+219,2007.1.3,2380498,Industrials,0.717254,-2.58E-06,General Electric Company,0.030692559,1,Genera,General Electric Company ,NYSE,GE,_- Industrials / Industrial Conglomerates
+220,2007.1.3,2380498,Industrials,0.717254,-2.58E-06,General Electric Company,0.030692559,1,Genera,General Growth Properties Inc ,NYSE,GGP,_- Financials / REITs
+221,2007.1.3,2380498,Industrials,0.717254,-2.58E-06,General Electric Company,0.030692559,1,Genera,"General Mills, Inc. ",NYSE,GIS,_- Consumer Staples / Packaged Foods & Meats
+222,2007.1.3,2380498,Industrials,0.717254,-2.58E-06,General Electric Company,0.030692559,1,Genera,General Motors Company ,NYSE,GM,_- Consumer Discretionary / Automobile Manufacturers
+223,2007.1.3,2380863,Industrials,1.311407,1.06E-06,"W.W. Grainger, Inc.",0.000407171,4,W.W. G,,GWW,,
+224,2007.1.3,2404569,Consumer Staples,0.74618,1.40E-05,Pepsi Bottling,0.000330402,4,Pepsi ,,,,
+225,2007.1.3,2405302,Energy,1.058962,1.48E-05,Halliburton Company,0.002355239,1,Hallib,Halliburton Company ,NYSE,HAL,_- Energy / Oil & Gas Equipment & Services
+226,2007.1.3,2407966,Financials,1.492308,1.76E-05,"Goldman Sachs Group, Inc.",0.006702592,1,Goldma,Goldman Sachs Group Inc ,NYSE,GS,_- Financials / Investment Banking & Brokerage
+227,2007.1.3,2411053,Consumer Discretionary,1.020886,1.44E-05,"Harley-Davidson, Inc.",0.001425699,2,Harley,Harley-Davidson Inc ,NYSE,HOG,_- Consumer Discretionary / Motorcycle Manufacturers
+228,2007.1.3,2411138,Consumer Discretionary,1.187058,6.54E-07,"Harman International Industries, Incorporated",0.000510616,4,Harman,Harman International Industries Inc. ,NYSE,HAR,_- Consumer Discretionary / Consumer Electronics
+229,2007.1.3,2413758,Energy,1,-1.19E-05,CONSOL Energy Inc.,0.00043291,4,CONSOL,CONSOL Energy Inc.,NYSE,CNX,_- Energy / Coal & Consumable Fuels
+230,2007.1.3,2414580,Consumer Discretionary,1.122328,1.93E-05,"Hasbro, Inc.",0.00034239,4,Hasbro,"Hasbro, Inc. ",NASDAQ,HAS,_- Consumer Discretionary / Leisure Products
+231,2007.1.3,2417868,Health Care,0.694673,-6.62E-06,Manor Care Inc.,0.000269251,5,Manor ,,,,
+232,2007.1.3,2417987,Health Care,0.705734,-1.03E-05,"Health Management Associates, Inc. Class A",0.00039464,4,Health,"Health Care REIT, Inc. ",NYSE,HCN,_- Financials / REITs
+233,2007.1.3,2419240,Consumer Staples,0.591634,2.27E-06,H. J. Heinz Company,0.001182059,2,H. J. ,,,,
+234,2007.1.3,2422442,Materials,1.322648,9.14E-06,Hercules Inc.,0.000171512,5,Hercul,,,HTGC,
+235,2007.1.3,2422806,Consumer Staples,0.422595,5.51E-06,Hershey Company,0.000679033,3,Hershe,Hershey Co ,NYSE,HSY,_- Consumer Staples / Packaged Foods & Meats
+236,2007.1.3,2428008,Consumer Discretionary,1.219473,-1.23E-05,Hilton Hotels Corp.,0.001053526,2,Hilton,,,,
+237,2007.1.3,2429090,Consumer Staples,0.96862,4.29E-06,Reynolds American Inc.,0.000878601,2,Reynol,"Reynolds American, Inc. ",NYSE,RAI,_- Consumer Staples / Tobacco
+238,2007.1.3,2431846,Information Technology,1.736593,3.89E-06,"Juniper Networks, Inc.",0.000853135,3,Junipe,"Juniper Networks, Inc. ",NYSE,JNPR,_- Information Technology / Networking Equipment
+239,2007.1.3,2433842,Financials,1.125628,-1.71E-05,Unum Group,0.000558447,3,Unum G,Unum Group ,NYSE,UNM,_- Financials / Diversified Financial Services
+240,2007.1.3,2434209,Consumer Discretionary,1.174404,-7.84E-06,"Home Depot, Inc.",0.006572855,1,Home D,Home Depot Inc ,NYSE,HD,_- Consumer Discretionary / Home Improvement Retail
+241,2007.1.3,2440637,Utilities,0.916302,1.24E-05,"CenterPoint Energy, Inc.",0.000418272,4,Center,"CenterPoint Energy, Inc.",NYSE,CNP,_- Utilities / MultiUtilities
+242,2007.1.3,2445063,Health Care,1.192433,6.54E-07,Humana Inc.,0.000730232,3,Humana,Humana Inc ,NYSE,HUM,_- Health Care / Managed Health Care
+243,2007.1.3,2445966,Financials,0.820278,1.68E-05,Huntington Bancshares Incorporated,0.0004476,4,Huntin,Huntington Bancshares Incorporated ,NASDAQ,HBAN,_- Financials / Banks
+244,2007.1.3,2455965,Health Care,1.277699,1.76E-05,Biogen Inc.,0.001304123,2,Biogen,Biogen Inc,NASDAQ,BIIB,_- Health Care / Biotechnology
+245,2007.1.3,2457552,Industrials,0.932015,3.89E-06,Illinois Tool Works Inc.,0.00150957,1,Illino,Illinois Tool Works Inc. ,NYSE,ITW,_- Industrials / Industrial Machinery
+246,2007.1.3,2459020,Information Technology,1.050494,-2.98E-06,Intuit Inc.,0.00080628,3,Intuit,Intuit Inc. ,NASDAQ,INTU,_- Information Technology / Internet Software & Services
+247,2007.1.3,2459020,Information Technology,1.050494,-2.98E-06,Intuit Inc.,0.00080628,3,Intuit,"Intuitive Surgical, Inc. ",NASDAQ,ISRG,_- Health Care / Health Care Equipment & Services
+248,2007.1.3,2463247,Information Technology,1.24183,1.36E-05,Intel Corporation,0.009201378,1,Intel ,Intel Corporation ,NASDAQ,INTC,_- Information Technology / Semiconductors
+249,2007.1.3,2464165,Materials,0.728267,7.93E-06,International Flavors & Fragrances Inc.,0.000299333,4,Intern,International Business Machines Corp. ,NYSE,IBM,_- Information Technology / IT Consulting & Services
+250,2007.1.3,2464165,Materials,0.728267,7.93E-06,International Flavors & Fragrances Inc.,0.000299333,4,Intern,International Paper Co ,NYSE,IP,_- Materials / Paper Products
+251,2007.1.3,2464165,Materials,0.728267,7.93E-06,International Flavors & Fragrances Inc.,0.000299333,4,Intern,International Flavors & Fragrances Inc ,NYSE,IFF,_- Materials / Specialty Chemicals
+252,2007.1.3,2464972,Consumer Discretionary,0.879639,-2.18E-06,International Game Technology,0.001232035,2,Intern,International Business Machines Corp. ,NYSE,IBM,_- Information Technology / IT Consulting & Services
+253,2007.1.3,2464972,Consumer Discretionary,0.879639,-2.18E-06,International Game Technology,0.001232035,2,Intern,International Paper Co ,NYSE,IP,_- Materials / Paper Products
+254,2007.1.3,2464972,Consumer Discretionary,0.879639,-2.18E-06,International Game Technology,0.001232035,2,Intern,International Flavors & Fragrances Inc ,NYSE,IFF,_- Materials / Specialty Chemicals
+255,2007.1.3,2465254,Materials,1.168009,-1.31E-05,International Paper Company,0.001236229,2,Intern,International Business Machines Corp. ,NYSE,IBM,_- Information Technology / IT Consulting & Services
+256,2007.1.3,2465254,Materials,1.168009,-1.31E-05,International Paper Company,0.001236229,2,Intern,International Paper Co ,NYSE,IP,_- Materials / Paper Products
+257,2007.1.3,2465254,Materials,1.168009,-1.31E-05,International Paper Company,0.001236229,2,Intern,International Flavors & Fragrances Inc ,NYSE,IFF,_- Materials / Specialty Chemicals
+258,2007.1.3,2466321,Consumer Discretionary,1.057772,-9.86E-06,"Interpublic Group of Companies, Inc.",0.000423462,4,Interp,Interpublic Group of Companies Inc ,NYSE,IPG,_- Consumer Discretionary / Advertising
+259,2007.1.3,2471789,Information Technology,1.661851,-1.75E-05,"Jabil Circuit, Inc.",0.000361785,4,Jabil ,,,JBL,
+260,2007.1.3,2475833,Health Care,0.137214,1.16E-05,Johnson & Johnson,0.015096744,1,Johnso,Johnson & Johnson ,NYSE,JNJ,_- Health Care / Health Care Equipment & Services
+261,2007.1.3,2475833,Health Care,0.137214,1.16E-05,Johnson & Johnson,0.015096744,1,Johnso,Johnson Controls Inc ,NYSE,JCI,_- Consumer Discretionary / Auto Parts & Equipment
+262,2007.1.3,2476193,Financials,1.255134,-1.55E-05,"Hartford Financial Services Group, Inc.",0.00233325,1,Hartfo,Hartford Financial Services Group Inc ,NYSE,HIG,
+263,2007.1.3,2476803,Consumer Discretionary,1.099544,3.48E-06,"Johnson Controls, Inc.",0.001317211,2,Johnso,Johnson & Johnson ,NYSE,JNJ,_- Health Care / Health Care Equipment & Services
+264,2007.1.3,2476803,Consumer Discretionary,1.099544,3.48E-06,"Johnson Controls, Inc.",0.001317211,2,Johnso,Johnson Controls Inc ,NYSE,JCI,_- Consumer Discretionary / Auto Parts & Equipment
+265,2007.1.3,2477152,Consumer Discretionary,1.016047,7.12E-06,Jones Apparel Group Inc.,0.000286348,4,Jones ,,,,
+266,2007.1.3,2480138,Information Technology,1.55855,-1.39E-05,KLA-Tencor Corporation,0.000764825,3,KLA-Te,KLA-Tencor Corp ,NASDAQ,KLAC,_- Information Technology / Semiconductor Equipment
+267,2007.1.3,2480677,Energy,0.92953,-2.98E-06,Devon Energy Corporation,0.002248092,1,Devon ,Devon Energy Corp,NYSE,DVN,_- Energy / Oil & Gas Exploration & Production
+268,2007.1.3,2484088,Energy,0.705443,2.27E-06,Kinder Morgan Inc.,0.000890226,2,Kinder,Kinder Morgan Inc ,NYSE,KMI,_- Energy / Oil & Gas Refining & Marketing & Transportation
+269,2007.1.3,2485070,Consumer Discretionary,2.068188,-2.98E-06,KB Home,0.000303363,4,KB Hom,,,KBH,
+270,2007.1.3,2486813,Consumer Staples,0.541776,9.55E-06,Kellogg Company,0.000992808,2,Kellog,Kellogg Company ,NYSE,K,_- Consumer Staples / Packaged Foods & Meats
+271,2007.1.3,2490911,Financials,0.693785,1.88E-05,KeyCorp,0.001197604,2,KeyCor,KeyCorp ,NYSE,KEY,_- Financials / Banks
+272,2007.1.3,2491594,Financials,0.928302,1.80E-05,Kimco Realty Corporation,0.000799549,3,Kimco ,Kimco Realty Corp ,NYSE,KIM,_- Financials / REITs
+273,2007.1.3,2491839,Consumer Staples,0.552781,1.04E-05,Kimberly-Clark Corporation,0.00245645,1,Kimber,Kimberly Clark Corp ,NYSE,KMB,_- Consumer Staples / Household Products
+274,2007.1.3,2496113,Consumer Discretionary,0.835629,1.20E-05,Kohl's Corporation,0.001720214,2,Kohl's,Kohl's Corporation ,NYSE,KSS,_- Consumer Discretionary / General Merchandise Stores
+275,2007.1.3,2497406,Consumer Staples,0.814659,1.84E-05,Kroger Co.,0.002607032,2,Kroger,Kroger Co ,NYSE,KR,_- Consumer Staples / Food Retail
+276,2007.1.3,2498993,Information Technology,1.993318,1.68E-05,LSI Corporation,0.000284938,5,LSI Co,,,LSI,
+277,2007.1.3,2510615,Financials,1.505939,-2.08E-05,"Legg Mason, Inc.",0.001006846,2,Legg M,Legg Mason Inc ,NYSE,LM,_- Financials / Asset Management & Custody Banks
+278,2007.1.3,2510682,Consumer Discretionary,1.183751,1.16E-05,"Leggett & Platt, Incorporated",0.000331386,4,Legget,"Leggett & Platt, Inc. ",NYSE,LEG,_- Industrials / Industrial Conglomerates
+279,2007.1.3,2510723,Financials,1.378429,8.34E-06,Lehman Brothers Holdings Inc.,0.003268327,1,Lehman,,,LEHNQ,
+280,2007.1.3,2511328,Materials,1.064888,7.12E-06,Pactiv Corp,0.000367934,4,Pactiv,,,,
+281,2007.1.3,2511908,Information Technology,1.079156,6.72E-06,"Lexmark International, Inc. Class A",0.000554905,3,Lexmar,,,LXK,
+282,2007.1.3,2511920,Consumer Discretionary,1.764511,5.10E-06,Lennar Corporation Class A,0.000547362,3,Lennar,Lennar Corporation ,NYSE,LEN,_- Consumer Discretionary / Homebuilding
+283,2007.1.3,2516152,Health Care,0.696333,6.54E-07,Eli Lilly and Company,0.004033738,1,Eli Li,Eli Lilly and Co ,NYSE,LLY,_- Health Care / Pharmaceuticals
+284,2007.1.3,2516378,Financials,1.227307,-9.86E-06,Lincoln National Corporation,0.001497323,2,Lincol,Lincoln National Corporation ,NYSE,LNC,_- Financials / Multi-line Insurance
+285,2007.1.3,2516839,Information Technology,1.026573,7.53E-06,Linear Technology Corporation,0.000710563,3,Linear,Linear Technology Corporation ,NASDAQ,LLTC,_- Information Technology / Semiconductors
+286,2007.1.3,2517382,Industrials,0.768421,-1.31E-05,"United Parcel Service, Inc. Class B",0.006311328,1,United,UnitedHealth Group Inc. ,NYSE,UNH,_- Health Care / Managed Health Care
+287,2007.1.3,2517382,Industrials,0.768421,-1.31E-05,"United Parcel Service, Inc. Class B",0.006311328,1,United,"United Parcel Service, Inc. ",NYSE,UPS,_- Industrials / Air Freight & Logistics
+288,2007.1.3,2517382,Industrials,0.768421,-1.31E-05,"United Parcel Service, Inc. Class B",0.006311328,1,United,"United Rentals, Inc. ",NYSE,URI,_- Industrials / Trading Companies & Distributors
+289,2007.1.3,2517382,Industrials,0.768421,-1.31E-05,"United Parcel Service, Inc. Class B",0.006311328,1,United,United Technologies Corporation ,NYSE,UTX,_- Industrials / Industrial Conglomerates
+290,2007.1.3,2520153,Health Care,1,-1.31E-05,"Agilent Technologies, Inc.",0.001099234,2,Agilen,Agilent Technologies Inc,NYSE,A,_- Health Care / Health Care Equipment & Services
+291,2007.1.3,2522096,Industrials,0.782901,1.36E-05,Lockheed Martin Corporation,0.002566904,1,Lockhe,Lockheed Martin Corporation ,NYSE,LMT,_- Industrials / Aerospace & Defense
+292,2007.1.3,2523022,Financials,0.919766,1.48E-05,Loews Corporation,0.001477395,2,Loews ,Loews Corporation ,NYSE,L,_- Financials / Multi-Sector Holdings
+293,2007.1.3,2523044,Consumer Discretionary,1.176309,-5.59E-07,Carnival Corporation,0.001777894,1,Carniv,Carnival Corp,NYSE,CCL,"_- Consumer Discretionary / Hotels, Resorts & Cruise Lines"
+294,2007.1.3,2526117,Materials,1,-5.59E-07,Allegheny Technologies Incorporated,0.000699969,3,Allegh,Allegheny Technologies Inc,NYSE,ATI,_- Materials / Diversified Metals & Mining
+295,2007.1.3,2536763,Consumer Discretionary,1.22635,-9.45E-06,"Lowe's Companies, Inc.",0.003826002,1,Lowe's,"Lowe's Companies, Inc. ",NYSE,LOW,_- Consumer Discretionary / Home Improvement Retail
+296,2007.1.3,2542049,Utilities,1,-1.71E-05,"Dominion Resources, Inc.",0.002320261,1,Domini,"Dominion Resources, Inc.",NYSE,D,_- Utilities / Electric Utilities
+297,2007.1.3,2547044,Financials,1.122708,-1.47E-05,MBIA Inc.,0.00076665,3,MBIA I,,,MBI,
+298,2007.1.3,2548616,Financials,1.165731,-1.11E-05,MGIC Investment Corporation,0.000413125,4,MGIC I,,,MTG,
+299,2007.1.3,2550161,Consumer Staples,0.453059,1.44E-05,"McCormick & Company, Incorporated",0.000395707,4,McCorm,"McCormick & Company, Incorporated ",NYSE,MKC,_- Consumer Staples / Packaged Foods & Meats
+300,2007.1.3,2550707,Consumer Discretionary,0.849263,6.31E-06,McDonald's Corporation,0.004254642,1,McDona,McDonald's Corporation ,NYSE,MCD,_- Consumer Discretionary / Restaurants
+301,2007.1.3,2567741,Financials,0.941749,-2.00E-05,"Marsh & McLennan Companies, Inc.",0.001350985,2,Marsh ,"Marsh & McLennan Companies, Inc. ",NYSE,MMC,_- Financials / Insurance Brokers
+302,2007.1.3,2570200,Industrials,1.060952,1.87E-06,Masco Corporation,0.00090511,2,Masco ,Masco Corporation ,NYSE,MAS,_- Industrials / Building Products
+303,2007.1.3,2570545,Health Care,1,-3.39E-06,Caremark Rx Inc.,0.001890467,1,Carema,,,,
+304,2007.1.3,2572303,Consumer Discretionary,0.876575,1.84E-05,"Mattel, Inc.",0.000689405,3,Mattel,"Mattel, Inc. ",NASDAQ,MAT,_- Consumer Discretionary / Leisure Products
+305,2007.1.3,2573209,Financials,0.922434,-5.41E-06,"MetLife, Inc.",0.003585888,1,MetLif,,,MET,
+306,2007.1.3,2575896,Health Care,0.800948,-9.86E-06,Medimmune Inc.,0.000619016,3,Medimm,,,,
+307,2007.1.3,2576350,Financials,1.222272,2.50E-07,Mellon Financial Corp.,0.001374894,2,Mellon,,,,
+308,2007.1.3,2577609,Consumer Staples,1,-1.31E-05,CVS Health Corporation,0.001991717,1,CVS He,CVS Health Corp,NYSE,CVS,_- Consumer Staples / Drug Retail
+309,2007.1.3,2578516,Consumer Discretionary,0.66293,1.87E-06,Meredith Corporation,0.000170951,5,Meredi,,,MDP,
+310,2007.1.3,2580986,Financials,1,2.27E-06,Merrill Lynch & Co. Inc.,0.006488937,1,Merril,,,11IL.L,
+311,2007.1.3,2586122,Health Care,0.743602,6.31E-06,Laboratory Corporation of America Holdings,0.000718834,3,Labora,Laboratory Corp. of America Holdings ,NYSE,LH,_- Health Care / Health Care Facilities
+312,2007.1.3,2588173,Information Technology,1,-1.77E-06,Microsoft Corporation,0.0202563,1,Micros,Microsoft Corporation ,NASDAQ,MSFT,_- Information Technology / Systems Software
+313,2007.1.3,2588184,Information Technology,1.600492,1.80E-05,"Micron Technology, Inc.",0.000830001,3,Micron,"Micron Technology, Inc. ",NASDAQ,MU,_- Information Technology / Semiconductors
+314,2007.1.3,2589198,Telecommunication Services,1,4.70E-06,Alltel Corp.,0.00181275,1,Alltel,,,,
+315,2007.1.3,2594437,Health Care,0.845157,-2.04E-05,Millipore Corp,0.000275611,5,Millip,,,,
+316,2007.1.3,2595708,Industrials,0.860295,6.72E-06,3M Company,0.004519053,1,3M Com,,,MMM,
+317,2007.1.3,2599142,Information Technology,1.499168,-1.55E-05,Molex Incorporated,0.000352197,5,Molex ,,,,
+318,2007.1.3,2604206,Utilities,0.642934,-1.43E-05,Progress Energy Inc.,0.000987914,2,Progre,Progressive Corp ,NYSE,PGR,_- Financials / Property & Casualty Insurance
+319,2007.1.3,2605555,Financials,1.587212,-1.75E-05,Janus Capital Group Inc.,0.000336786,4,Janus ,,,,
+320,2007.1.3,2611206,Energy,0.921115,-5.41E-06,Murphy Oil Corporation,0.000712159,3,Murphy,Murphy Oil Corporation ,NYSE,MUR,_- Energy / Integrated Oil & Gas
+321,2007.1.3,2614807,Utilities,0.599638,1.80E-05,Xcel Energy Inc.,0.000747575,3,Xcel E,Xcel Energy Inc ,NYSE,XEL,_- Utilities / MultiUtilities
+322,2007.1.3,2615468,Consumer Discretionary,1.679494,7.93E-06,Ford Motor Company,0.001112401,2,Ford M,Ford Motor Company ,NYSE,F,_- Consumer Discretionary / Automobile Manufacturers
+323,2007.1.3,2624356,Information Technology,1.76349,1.93E-05,Avaya Inc.,0.000496402,4,Avaya ,,,,
+324,2007.1.3,2624486,Energy,1,1.68E-05,"National Oilwell Varco, Inc.",0.000801525,3,Nation,"National-Oilwell Varco, Inc. ",NYSE,NOV,_- Energy / Oil & Gas Equipment & Services
+325,2007.1.3,2625047,Financials,0.846107,1.48E-05,National City Corp.,0.001829991,1,Nation,"National-Oilwell Varco, Inc. ",NYSE,NOV,_- Energy / Oil & Gas Equipment & Services
+326,2007.1.3,2626921,Information Technology,1.56427,7.93E-06,National Semiconductor Corp,0.000505972,3,Nation,"National-Oilwell Varco, Inc. ",NYSE,NOV,_- Energy / Oil & Gas Equipment & Services
+327,2007.1.3,2630643,Information Technology,2.237077,-3.39E-06,Network Appliance Inc.,0.001171157,2,Networ,,,,
+328,2007.1.3,2632003,Consumer Discretionary,0.679276,-1.75E-05,New York Times Company Class A,0.000267572,5,New Yo,,,NYT,
+329,2007.1.3,2632650,Information Technology,1.191512,-2.18E-06,NCR Corporation,0.000601023,3,NCR Co,,,NCR,
+330,2007.1.3,2634805,Consumer Discretionary,1.588592,2.50E-07,Sears Holdings Corporation,0.001090174,2,Sears ,,,SHLD,
+331,2007.1.3,2635701,Consumer Discretionary,1.177817,1.46E-06,Newell Brands Inc,0.000636036,3,Newell,Newell Rubbermaid Inc. ,NYSE,NWL,_- Consumer Discretionary / Housewares & Specialties
+332,2007.1.3,2636607,Materials,0.687799,-1.92E-05,Newmont Mining Corporation,0.001560493,2,Newmon,Newmont Mining Corp ,NYSE,NEM,_- Materials / Gold
+333,2007.1.3,2639509,Utilities,0.796395,1.72E-05,Nicor Inc,0.000163768,5,Nicor ,,,,
+334,2007.1.3,2640147,Consumer Discretionary,0.897685,1.12E-05,"NIKE, Inc. Class B",0.001440128,2,"NIKE, ",,,NKE,
+335,2007.1.3,2641827,Consumer Discretionary,1.419968,1.24E-05,"Nordstrom, Inc.",0.000921899,3,Nordst,"Nordstrom, Inc. ",NYSE,JWN,_- Consumer Discretionary / Department Stores
+336,2007.1.3,2641894,Industrials,1.285303,-3.39E-06,Norfolk Southern Corporation,0.001532202,2,Norfol,Norfolk Southern Corp. ,NYSE,NSC,_- Industrials / Railroads
+337,2007.1.3,2645409,Utilities,0.65606,3.08E-06,NiSource Inc.,0.00051958,3,NiSour,NiSource Inc. ,NYSE,NI,_- Utilities / MultiUtilities
+338,2007.1.3,2646015,Consumer Discretionary,1.758828,5.51E-06,"Coach, Inc.",0.001262747,2,"Coach,",,,,
+339,2007.1.3,2648668,Financials,1.164097,-8.65E-06,Northern Trust Corporation,0.000901322,2,Northe,Northern Trust Corporation ,NASDAQ,NTRS,_- Financials / Asset Management & Custody Banks
+340,2007.1.3,2648806,Industrials,0.775445,7.93E-06,Northrop Grumman Corporation,0.001845402,1,Northr,Northrop Grumman Corporation ,NYSE,NOC,_- Industrials / Aerospace & Defense
+341,2007.1.3,2649100,Financials,0.533053,1.84E-05,Wells Fargo & Company,0.009461638,1,Wells ,Wells Fargo & Co ,NYSE,WFC,_- Financials / Banks
+342,2007.1.3,2650748,Information Technology,1.550833,1.24E-05,Novellus Systems Inc.,0.000331104,4,Novell,,,,
+343,2007.1.3,2650793,Information Technology,1.279387,-1.39E-05,"Novell, Inc.",0.000164026,5,Novell,,,,
+344,2007.1.3,2651086,Materials,1.843906,1.80E-05,Nucor Corporation,0.001291172,2,Nucor ,Nucor Corporation ,NYSE,NUE,_- Materials / Steel
+345,2007.1.3,2654320,Materials,1.362983,2.50E-07,Monsanto Company,0.002201795,1,Monsan,Monsanto Company ,NYSE,MON,_- Materials / Fertilizers & Agricultural Chemicals
+346,2007.1.3,2654461,Financials,1,2.68E-06,Capital One Financial Corporation,0.002471471,1,Capita,,,COF,
+347,2007.1.3,2655408,Energy,1.031173,7.53E-06,Occidental Petroleum Corporation,0.003156378,1,Occide,Occidental Petroleum Corporation ,NYSE,OXY,_- Energy / Oil & Gas Exploration & Production
+348,2007.1.3,2655981,Consumer Discretionary,1.238203,1.32E-05,"Office Depot, Inc.",0.000831588,3,Office,,,ODP,
+349,2007.1.3,2661568,Information Technology,1.202423,1.64E-05,Oracle Corporation,0.005493079,1,Oracle,Oracle Corporation ,NYSE,ORCL,_- Information Technology / Application Software
+350,2007.1.3,2665861,Industrials,1.369031,5.10E-06,PACCAR Inc,0.001264567,2,PACCAR,PACCAR Inc ,NASDAQ,PCAR,_- Industrials / Construction & Farm Machinery & Heavy Trucks
+351,2007.1.3,2668804,Industrials,1.107446,5.10E-06,Pall Corporation,0.000334918,4,Pall C,Pall Corporation ,NYSE,PLL,_- Industrials / Industrial Conglomerates
+352,2007.1.3,2670519,Utilities,0.727086,-1.39E-05,Exelon Corporation,0.003284737,1,Exelon,Exelon Corporation ,NYSE,EXC,_- Utilities / MultiUtilities
+353,2007.1.3,2671501,Industrials,1.396962,1.76E-05,Parker-Hannifin Corporation,0.000710624,3,Parker,Parker-Hannifin Corporation ,NYSE,PH,_- Industrials / Industrial Conglomerates
+354,2007.1.3,2672689,Health Care,0.66822,9.14E-06,"Patterson Companies, Inc.",0.000386279,4,Patter,"Patterson Companies, Inc. ",NASDAQ,PDCO,_- Health Care / Health Care Supplies
+355,2007.1.3,2674458,Information Technology,0.90978,-1.51E-05,"Paychex, Inc.",0.001043714,2,Payche,"Paychex, Inc. ",NASDAQ,PAYX,_- Information Technology / Internet Software & Services
+356,2007.1.3,2680303,Consumer Discretionary,1.156331,4.70E-06,"J. C. Penney Company, Inc.",0.001377172,2,J. C. ,,,JCP,
+357,2007.1.3,2680905,Utilities,0.820292,-1.55E-05,PPL Corporation,0.001087946,2,PPL Co,PPL Corporation ,NYSE,PPL,_- Utilities / Electric Utilities
+358,2007.1.3,2681403,Utilities,0.854851,-1.15E-05,Peoples Energy Corporation,0.000135213,5,People,"People's United Financial, Inc. ",NASDAQ,PBCT,_- Financials / Thrifts & Mortgage Finance
+359,2007.1.3,2681511,Consumer Staples,1,1.28E-05,"PepsiCo, Inc.",0.008076337,1,PepsiC,"PepsiCo, Inc. ",NYSE,PEP,_- Consumer Staples / Soft Drinks
+360,2007.1.3,2681801,Health Care,0.899279,1.64E-05,Applera Corp-Applied Biosystems,0.000514896,3,Appler,,,,
+361,2007.1.3,2684703,Health Care,0.624846,1.88E-05,Pfizer Inc.,0.014865053,1,Pfizer,Pfizer Inc. ,NYSE,PFE,_- Health Care / Pharmaceuticals
+362,2007.1.3,2685007,Materials,1.984109,1.52E-05,Phelps Dodge Corporation,0.001855415,1,Phelps,,,,
+363,2007.1.3,2685717,Energy,0.84155,1.04E-05,ConocoPhillips,0.008800425,1,Conoco,ConocoPhillips,NYSE,COP,_- Energy / Oil & Gas Exploration & Production
+364,2007.1.3,2689560,Utilities,0.782447,1.88E-05,PG&E Corporation,0.00129297,2,PG&E C,PG&E Corporation ,NYSE,PCG,_- Utilities / MultiUtilities
+365,2007.1.3,2690506,Industrials,0.695438,-2.18E-06,Pitney Bowes Inc.,0.000806806,3,Pitney,Pitney Bowes Inc. ,NYSE,PBI,_- Industrials / Office Services & Supplies
+366,2007.1.3,2692397,Financials,0.996728,-1.39E-05,"Plum Creek Timber Company, Inc.",0.000553224,3,Plum C,Plum Creek Timber Co. Inc. ,NYSE,PCL,_- Financials / REITs
+367,2007.1.3,2692632,Consumer Staples,0.638032,2.68E-06,"Altria Group, Inc.",0.01421827,1,Altria,Altria Group Inc,NYSE,MO,_- Consumer Staples / Tobacco
+368,2007.1.3,2692665,Financials,0.796876,1.93E-05,"PNC Financial Services Group, Inc.",0.00173146,1,PNC Fi,PNC Financial Services Group Inc ,NYSE,PNC,_- Financials / Banks
+369,2007.1.3,2695921,Health Care,1.220746,1.80E-05,Aetna Inc.,0.00175525,1,Aetna ,Aetna Inc,NYSE,AET,_- Health Care / Managed Health Care
+370,2007.1.3,2696838,Industrials,1.572892,-1.88E-05,Fluor Corporation,0.000557376,3,Fluor ,Fluor Corporation ,NYSE,FLR,_- Industrials / Diversified Commercial Services
+371,2007.1.3,2698470,Materials,1.15662,6.72E-06,"PPG Industries, Inc.",0.000836403,3,PPG In,"PPG Industries, Inc. ",NYSE,PPG,_- Materials / Diversified Chemicals
+372,2007.1.3,2699291,Materials,1.146405,-8.65E-06,"Praxair, Inc.",0.001513688,2,Praxai,"Praxair, Inc. ",NYSE,PX,_- Materials / Industrial Gases
+373,2007.1.3,2701271,Consumer Staples,1,-1.55E-07,Costco Wholesale Corporation,0.001898874,1,Costco,Costco Wholesale Corporation,NASDAQ,COST,_- Consumer Staples / Hypermarkets & Super Centers
+374,2007.1.3,2702337,Financials,1.559649,-1.39E-05,T. Rowe Price Group,0.000945826,2,T. Row,T. Rowe Price Group Inc ,NASDAQ,TROW,_- Financials / Diversified Financial Services
+375,2007.1.3,2702791,Health Care,0.577159,5.10E-06,Quest Diagnostics Incorporated,0.000645824,3,Quest ,Quest Diagnostics Inc ,NYSE,DGX,_- Health Care / Health Care Facilities
+376,2007.1.3,2704407,Consumer Staples,1,6.54E-07,Procter & Gamble Company,0.016037301,1,Procte,Procter & Gamble Co ,NYSE,PG,_- Consumer Staples / Personal Products
+377,2007.1.3,2705024,Financials,0.645911,-1.19E-05,Progressive Corporation,0.001446058,2,Progre,Progressive Corp ,NYSE,PGR,_- Financials / Property & Casualty Insurance
+378,2007.1.3,2705648,Consumer Discretionary,1.156622,-1.88E-05,Harrah's Entertainment Corp.,0.001206657,2,Harrah,,,,
+379,2007.1.3,2707677,Utilities,0.854212,-2.98E-06,Public Service Enterprise Group Incorporated,0.001318544,2,Public,Public Service Enterprise Group Inc. ,NYSE,PEG,_- Utilities / Electric Utilities
+380,2007.1.3,2707677,Utilities,0.854212,-2.98E-06,Public Service Enterprise Group Incorporated,0.001318544,2,Public,Public Storage ,NYSE,PSA,_- Financials / REITs
+381,2007.1.3,2708841,Consumer Discretionary,2.19979,-1.83E-05,"PulteGroup, Inc.",0.000536369,3,PulteG,"PulteGroup, Inc. ",NYSE,PHM,_- Consumer Discretionary / Homebuilding
+382,2007.1.3,2714923,Information Technology,1.056977,-5.41E-06,QUALCOMM Incorporated,0.004854416,1,QUALCO,"QUALCOMM, Inc. ",NASDAQ,QCOM,_- Information Technology / Semiconductors
+383,2007.1.3,2717320,Information Technology,1.223421,9.14E-06,QLogic Corporation,0.000271349,5,QLogic,,,QLGC,
+384,2007.1.3,2717483,Utilities,0.97994,7.12E-06,Questar Corporation,0.000536114,3,Questa,,,,
+385,2007.1.3,2732635,Consumer Discretionary,1,7.53E-06,"AutoNation, Inc.",0.000249501,5,AutoNa,"AutoNation, Inc.",NYSE,AN,_- Consumer Discretionary / Specialty Stores
+386,2007.1.3,2736035,Financials,0.732064,1.36E-05,U.S. Bancorp,0.004985935,1,U.S. B,U.S. Bancorp ,NYSE,USB,_- Financials / Banks
+387,2007.1.3,2746829,Materials,1.42851,6.54E-07,Rohm & Haas Co.,0.00057338,3,Rohm &,,,,
+388,2007.1.3,2754060,Industrials,1.385575,-7.43E-06,"Rockwell Automation, Inc.",0.000813085,3,Rockwe,Rockwell Automation ,NYSE,ROK,_- Industrials / Industrial Conglomerates
+389,2007.1.3,2754060,Industrials,1.385575,-7.43E-06,"Rockwell Automation, Inc.",0.000813085,3,Rockwe,"Rockwell Collins, Inc. ",NYSE,COL,_- Industrials / Industrial Conglomerates
+390,2007.1.3,2758051,Industrials,0.897187,1.36E-05,Raytheon Company,0.001816911,1,Raythe,Raytheon Company ,NYSE,RTN,_- Industrials / Aerospace & Defense
+391,2007.1.3,2760669,Industrials,1.430769,-1.51E-05,"Ryder System, Inc.",0.000251918,5,Ryder ,"Ryder System, Inc. ",NYSE,R,_- Industrials / Industrial Conglomerates
+392,2007.1.3,2765802,Information Technology,2.040481,-1.63E-05,SanDisk Corporation,0.000736228,3,SanDis,SanDisk Corporation ,NASDAQ,SNDK,_- Information Technology / Computer Storage & Peripherals
+393,2007.1.3,2766805,Financials,0.697392,5.10E-06,Safeco Corp,0.000522794,3,Safeco,,,,
+394,2007.1.3,2767165,Consumer Staples,0.858339,-1.79E-05,Safeway Inc.,0.001158983,2,Safewa,,,,
+395,2007.1.3,2767228,Industrials,0.97855,-5.59E-07,"Rockwell Collins, Inc.",0.000834558,3,Rockwe,Rockwell Automation ,NYSE,ROK,_- Industrials / Industrial Conglomerates
+396,2007.1.3,2767228,Industrials,0.97855,-5.59E-07,"Rockwell Collins, Inc.",0.000834558,3,Rockwe,"Rockwell Collins, Inc. ",NYSE,COL,_- Industrials / Industrial Conglomerates
+397,2007.1.3,2767381,Health Care,0.725134,-7.84E-06,"St. Jude Medical, Inc.",0.000992866,2,St. Ju,"St. Jude Medical, Inc. ",NYSE,STJ,_- Health Care / Health Care Equipment & Services
+398,2007.1.3,2769503,Financials,0.989842,1.64E-05,St. Paul Travelers Companies Inc.,0.002897569,1,St. Pa,,,,
+399,2007.1.3,2769796,Information Technology,0.847985,-1.96E-05,"Fidelity National Information Services, Inc.",0.000515521,3,Fideli,Fidelity National Information Services ,NYSE,FIS,_- Information Technology / Internet Software & Services
+400,2007.1.3,2778844,Health Care,0.444981,1.48E-05,"Merck & Co., Inc.",0.007494182,1,Merck ,"Merck & Co., Inc. ",NYSE,MRK,_- Health Care / Pharmaceuticals
+401,2007.1.3,2779201,Energy,0.965731,-5.59E-07,Schlumberger NV,0.005619333,1,Schlum,Schlumberger Limited. ,NYSE,SLB,_- Energy / Oil & Gas Equipment & Services
+402,2007.1.3,2779397,Financials,1.962772,4.70E-06,Charles Schwab Corporation,0.001584947,2,Charle,Charles Schwab Corp,NYSE,SCHW,_- Financials / Investment Banking & Brokerage
+403,2007.1.3,2783815,Health Care,0.692281,-5.81E-06,"Zimmer Biomet Holdings, Inc.",0.001442872,2,Zimmer,"Zimmer Holdings, Inc. ",NYSE,ZMH,_- Health Care / Health Care Equipment & Services
+404,2007.1.3,2786159,Information Technology,1.281299,-1.51E-05,Sabre Holdings Corporation,0.000330828,4,Sabre ,,,SABR,
+405,2007.1.3,2790611,Financials,0.896581,1.48E-05,Prologis,0.00116988,2,Prolog,Prologis Inc ,NYSE,PLD,_- Financials / Diversified Financial Services
+406,2007.1.3,2795393,Health Care,0.789313,1.84E-05,AmerisourceBergen Corporation,0.000694563,3,Ameris,AmerisourceBergen Corp.,NYSE,ABC,_- Health Care / Health Care Distribution & Services
+407,2007.1.3,2803014,Financials,0.889532,-2.98E-06,"Principal Financial Group, Inc.",0.001254861,2,Princi,Principal Financial Group Inc ,NYSE,PFG,_- Financials / Diversified Financial Services
+408,2007.1.3,2804211,Materials,1.174648,1.44E-05,Sherwin-Williams Company,0.000556083,3,Sherwi,Sherwin-Williams Co ,NYSE,SHW,_- Materials / Specialty Chemicals
+409,2007.1.3,2807492,Information Technology,2.736721,2.27E-06,"PMC-Sierra, Inc.",0.000105302,5,PMC-Si,,,,
+410,2007.1.3,2807566,Materials,0.781822,5.10E-06,Sigma-Aldrich Corporation,0.00040219,4,Sigma-,Sigma-Aldrich Corporation ,NASDAQ,SIAL,_- Materials / Diversified Chemicals
+411,2007.1.3,2812452,Financials,0.999517,9.95E-06,"Simon Property Group, Inc.",0.001764804,1,Simon ,Simon Property Group Inc ,NYSE,SPG,_- Financials / REITs
+412,2007.1.3,2814641,Financials,0.813672,1.24E-05,Archstone-Smith Trust,0.000995639,2,Archst,,,,
+413,2007.1.3,2816409,Energy,1.0306,-6.62E-06,Smith International,0.000612138,3,Smith ,,,,
+414,2007.1.3,2818740,Industrials,1.065266,1.36E-05,Snap-on Incorporated,0.000219001,5,Snap-o,Snap-on Incorporated ,NYSE,SNA,_- Consumer Discretionary / Household Appliances
+415,2007.1.3,2819118,Financials,1.177554,-5.59E-07,"Prudential Financial, Inc.",0.0032262,1,Pruden,Prudential Financial Inc ,NYSE,PRU,_- Financials / Diversified Financial Services
+416,2007.1.3,2820563,Information Technology,2.215723,-3.79E-06,Solectron Corp.,0.000230931,5,Solect,,,,
+417,2007.1.3,2822600,Financials,1.115921,-1.55E-05,Sovereign Bancorp Inc.,0.000720108,3,Sovere,,,SOV,
+418,2007.1.3,2824770,Materials,2.494448,1.28E-05,United States Steel Corporation,0.000662502,3,United,UnitedHealth Group Inc. ,NYSE,UNH,_- Health Care / Managed Health Care
+419,2007.1.3,2824770,Materials,2.494448,1.28E-05,United States Steel Corporation,0.000662502,3,United,"United Parcel Service, Inc. ",NYSE,UPS,_- Industrials / Air Freight & Logistics
+420,2007.1.3,2824770,Materials,2.494448,1.28E-05,United States Steel Corporation,0.000662502,3,United,"United Rentals, Inc. ",NYSE,URI,_- Industrials / Trading Companies & Distributors
+421,2007.1.3,2824770,Materials,2.494448,1.28E-05,United States Steel Corporation,0.000662502,3,United,United Technologies Corporation ,NYSE,UTX,_- Industrials / Industrial Conglomerates
+422,2007.1.3,2829515,Utilities,1,1.52E-05,Edison International,0.001161473,2,Edison,Edison International,NYSE,EIX,_- Utilities / Electric Utilities
+423,2007.1.3,2829601,Utilities,0.464529,-1.67E-05,Southern Company,0.00215386,1,Southe,Southern Co ,NYSE,SO,_- Utilities / Electric Utilities
+424,2007.1.3,2830904,Financials,1,8.34E-06,BB&T Corporation,0.001866429,1,BB&T C,BB&T Corporation,NYSE,BBT,_- Financials / Banks
+425,2007.1.3,2831543,Industrials,1.060535,-8.65E-06,Southwest Airlines Co.,0.000963694,5,Southw,Southwest Airlines Co ,NYSE,LUV,_- Industrials / Airlines
+426,2007.1.3,2831543,Industrials,1.060535,-8.65E-06,Southwest Airlines Co.,0.000963694,5,Southw,Southwestern Energy Company ,NYSE,SWN,_- Energy / Oil & Gas Exploration & Production
+427,2007.1.3,2831811,Telecommunication Services,0.722337,-1.63E-05,AT&T Inc.,0.01053223,1,AT&T I,AT&T Inc.,NYSE,T,_- Information Technology / Application Software
+428,2007.1.3,2838555,Energy,0.650226,8.74E-06,Chevron Corporation,0.01213226,1,Chevro,Chevron Corporation,NYSE,CVX,_- Energy / Integrated Oil & Gas
+429,2007.1.3,2841489,Consumer Discretionary,1.289795,5.91E-06,"Staples, Inc.",0.001496012,2,Staple,"Staples, Inc. ",NASDAQ,SPLS,_- Consumer Discretionary / Specialty Stores
+430,2007.1.3,2842040,Financials,1.202354,-1.27E-05,State Street Corporation,0.001773621,1,State ,State Street Corp ,NYSE,STT,_- Financials / Diversified Financial Services
+431,2007.1.3,2842255,Consumer Discretionary,1.108797,-4.20E-06,Starbucks Corporation,0.002089937,1,Starbu,Starbucks Corporation ,NASDAQ,SBUX,_- Consumer Discretionary / Restaurants
+432,2007.1.3,2852533,Financials,0.871392,4.70E-06,Public Storage,0.000952936,2,Public,Public Service Enterprise Group Inc. ,NYSE,PEG,_- Utilities / Electric Utilities
+433,2007.1.3,2852533,Financials,0.871392,4.70E-06,Public Storage,0.000952936,2,Public,Public Storage ,NYSE,PSA,_- Financials / REITs
+434,2007.1.3,2853688,Health Care,0.722895,-1.35E-05,Stryker Corporation,0.00128475,2,Stryke,Stryker Corporation ,NYSE,SYK,_- Health Care / Health Care Equipment & Services
+435,2007.1.3,2859868,Energy,1.148295,7.93E-06,Sunoco Inc.,0.000579176,3,Sunoco,,,,
+436,2007.1.3,2859954,Information Technology,2.443858,8.74E-06,Sun Microsystems,0.001529015,2,Sun Mi,,,,
+437,2007.1.3,2860990,Financials,0.782042,1.87E-06,"SunTrust Banks, Inc.",0.002352196,1,SunTru,"SunTrust Banks, Inc. ",NYSE,STI,_- Financials / Banks
+438,2007.1.3,2861078,Information Technology,1.333428,5.10E-06,Symantec Corporation,0.00156971,2,Symant,Symantec Corporation ,NASDAQ,SYMC,_- Information Technology /_
+439,2007.1.3,2867913,Information Technology,1.506645,1.46E-06,Symbol Technologies Inc.,0.000298641,4,Symbol,,,,
+440,2007.1.3,2868165,Consumer Staples,0.614661,-1.63E-05,Sysco Corporation,0.001748872,1,Sysco ,,,SYY,
+441,2007.1.3,2871505,Consumer Discretionary,1.143181,5.10E-06,RadioShack Corp.,0.000181172,5,RadioS,,,,
+442,2007.1.3,2880255,Utilities,0.820344,-2.58E-06,"TECO Energy, Inc.",0.00028397,5,TECO E,"TECO Energy, Inc. ",NYSE,TE,_- Utilities / Electric Utilities
+443,2007.1.3,2880501,Information Technology,1.678372,-8.65E-06,Tektronix Inc.,0.000187714,5,Tektro,,,,
+444,2007.1.3,2881537,Information Technology,1.796232,1.88E-05,"Tellabs, Inc.",0.00037727,4,Tellab,,,,
+445,2007.1.3,2883395,Materials,1.226334,3.08E-06,Temple-Inland Inc,0.000390109,4,Temple,,,,
+446,2007.1.3,2884183,Information Technology,2.380804,1.64E-05,"Teradyne, Inc.",0.000222189,5,Terady,,,TER,
+447,2007.1.3,2884224,Industrials,2.217071,1.48E-05,Terex Corporation,0.000471008,4,Terex ,,,,
+448,2007.1.3,2885409,Information Technology,1.573637,-8.24E-06,Texas Instruments Incorporated,0.003323319,1,Texas ,Texas Instruments Incorporated ,NASDAQ,TXN,_- Information Technology / Semiconductors
+449,2007.1.3,2885700,Utilities,0.549916,-1.77E-06,TXU Corporation,0.001950803,1,TXU Co,,,,
+450,2007.1.3,2885937,Industrials,1.449578,3.89E-06,Textron Inc.,0.000936984,3,Textro,Textron Inc. ,NYSE,TXT,_- Industrials / Industrial Conglomerates
+451,2007.1.3,2886907,Health Care,1.088688,1.44E-05,Thermo Fisher Scientific Inc.,0.001445485,2,Thermo,Thermo Fisher Scientific Inc. ,NYSE,TMO,_- Health Care / Health Care Equipment & Services
+452,2007.1.3,2892045,Information Technology,2.682945,-5.41E-06,"Monster Worldwide, Inc.",0.000467987,4,Monste,Monster Beverage Corp ,NASDAQ,MNST,_- Consumer Staples / Soft Drinks
+453,2007.1.3,2892090,Consumer Discretionary,1.501668,-1.47E-05,Tiffany & Co.,0.000418176,4,Tiffan,Tiffany & Co. ,NYSE,TIF,"_- Consumer Discretionary / Apparel, Accessories & Luxury Goods"
+454,2007.1.3,2896713,Financials,0.836489,-6.62E-06,Torchmark Corporation,0.00049575,3,Torchm,Torchmark Corporation ,NYSE,TMK,_- Financials / Life & Health Insurance
+455,2007.1.3,2903550,Consumer Discretionary,0.689209,-8.24E-06,Tribune Company,0.000463449,4,Tribun,,,TRCO,
+456,2007.1.3,2909730,Consumer Staples,0.512741,-1.43E-05,"Tyson Foods, Inc. Class A",0.000323046,4,Tyson ,"Tyson Foods, Inc. ",NYSE,TSN,_- Consumer Staples / Packaged Foods & Meats
+457,2007.1.3,2910970,Energy,0.930086,1.28E-05,Marathon Oil Corporation,0.002407835,1,Marath,Marathon Oil Corporation ,NYSE,MRO,_- Energy / Oil & Gas Exploration & Production
+458,2007.1.3,2910970,Energy,0.930086,1.28E-05,Marathon Oil Corporation,0.002407835,1,Marath,Marathon Petroleum Corp ,NYSE,MPC,_- Energy / Oil & Gas Refining & Marketing & Transportation
+459,2007.1.3,2914734,Industrials,0.913983,-1.63E-05,Union Pacific Corporation,0.001956027,1,Union ,Union Pacific Corporation ,NYSE,UNP,_- Industrials / Railroads
+460,2007.1.3,2915500,Industrials,0.943563,1.56E-05,United Technologies Corporation,0.004943395,1,United,UnitedHealth Group Inc. ,NYSE,UNH,_- Health Care / Managed Health Care
+461,2007.1.3,2915500,Industrials,0.943563,1.56E-05,United Technologies Corporation,0.004943395,1,United,"United Parcel Service, Inc. ",NYSE,UPS,_- Industrials / Air Freight & Logistics
+462,2007.1.3,2915500,Industrials,0.943563,1.56E-05,United Technologies Corporation,0.004943395,1,United,"United Rentals, Inc. ",NYSE,URI,_- Industrials / Trading Companies & Distributors
+463,2007.1.3,2915500,Industrials,0.943563,1.56E-05,United Technologies Corporation,0.004943395,1,United,United Technologies Corporation ,NYSE,UTX,_- Industrials / Industrial Conglomerates
+464,2007.1.3,2917766,Health Care,0.528553,9.55E-06,UnitedHealth Group Incorporated,0.005552877,1,United,UnitedHealth Group Inc. ,NYSE,UNH,_- Health Care / Managed Health Care
+465,2007.1.3,2917766,Health Care,0.528553,9.55E-06,UnitedHealth Group Incorporated,0.005552877,1,United,"United Parcel Service, Inc. ",NYSE,UPS,_- Industrials / Air Freight & Logistics
+466,2007.1.3,2917766,Health Care,0.528553,9.55E-06,UnitedHealth Group Incorporated,0.005552877,1,United,"United Rentals, Inc. ",NYSE,URI,_- Industrials / Trading Companies & Distributors
+467,2007.1.3,2917766,Health Care,0.528553,9.55E-06,UnitedHealth Group Incorporated,0.005552877,1,United,United Technologies Corporation ,NYSE,UTX,_- Industrials / Industrial Conglomerates
+468,2007.1.3,2922544,Consumer Staples,0.619398,-8.65E-06,UST Inc.,0.000736333,3,UST In,,,,
+469,2007.1.3,2928683,Consumer Discretionary,0.99154,6.31E-06,V.F. Corporation,0.000573399,3,V.F. C,,,VFC,
+470,2007.1.3,2931205,Materials,1.514926,-9.86E-06,Vulcan Materials Company,0.000666036,3,Vulcan,Vulcan Materials Company ,NYSE,VMC,_- Materials / Construction Materials
+471,2007.1.3,2931595,Information Technology,1.267753,-1.15E-05,Unisys Corporation,0.002134659,5,Unisys,,,UIS,
+472,2007.1.3,2933632,Financials,0.777508,1.08E-05,Vornado Realty Trust,0.00123241,2,Vornad,Vornado Realty Trust ,NYSE,VNO,_- Financials / REITs
+473,2007.1.3,2936921,Consumer Staples,0.683693,9.14E-06,"Wal-Mart Stores, Inc.",0.009169521,1,Wal-Ma,"Wal-Mart Stores, Inc. ",NYSE,WMT,_- Consumer Staples / Hypermarkets & Super Centers
+474,2007.1.3,2937667,Industrials,0.869277,1.64E-05,"Waste Management, Inc.",0.001553574,2,Waste ,"Waste Management, Inc. ",NYSE,WM,_- Industrials / Environmental Services
+475,2007.1.3,2937689,Health Care,1.052462,1.44E-05,Waters Corporation,0.000388998,4,Waters,Waters Corporation ,NYSE,WAT,_- Health Care / Health Care Distributors & Services
+476,2007.1.3,2941925,Consumer Discretionary,1.122823,-7.43E-06,Univision Communications Inc. Class A,0.000703451,3,Univis,,,,
+477,2007.1.3,2942188,Financials,0.968124,-1.07E-05,"Washington Mutual, Inc.",0.003370328,1,Washin,,,,
+478,2007.1.3,2947956,Consumer Discretionary,1.157693,-1.19E-05,Wendy's International Inc.,0.000249781,5,Wendy',,,WEN,
+479,2007.1.3,2954019,Health Care,0.619109,-4.20E-06,Medco Health Solutions,0.00122389,2,Medco ,,,,
+480,2007.1.3,2958936,Financials,1.234735,-1.59E-05,Weyerhaeuser Company,0.001344751,2,Weyerh,Weyerhaeuser Co ,NYSE,WY,_- Financials / REITs
+481,2007.1.3,2960384,Consumer Discretionary,1.373344,-5.01E-06,Whirlpool Corporation,0.000520359,3,Whirlp,Whirlpool Corporation ,NYSE,WHR,_- Consumer Discretionary / Household Appliances
+482,2007.1.3,2963372,Energy,1.106234,-5.59E-07,Nabors Industries Ltd.,0.000658448,3,Nabors,,,NBR,
+483,2007.1.3,2963899,Consumer Staples,1.05292,-1.96E-05,"Whole Foods Market, Inc.",0.000509758,3,Whole ,"Whole Foods Market, Inc. ",NASDAQ,WFM,_- Consumer Staples / Food Retail
+484,2007.1.3,2965839,Financials,1.195601,-9.63E-07,Chicago Mercantile Exchange Holdings Inc.,0.001427889,2,Chicag,,,,
+485,2007.1.3,2967181,Energy,1.329348,5.91E-06,"Williams Companies, Inc.",0.001201352,2,Willia,Williams Companies Inc ,NYSE,WMB,_- Energy / Oil & Gas Exploration & Production
+486,2007.1.3,2983604,Consumer Staples,0.382156,-1.23E-05,WM Wrigley Jr. Co.,0.000894756,3,WM Wri,,,,
+487,2007.1.3,2985677,Information Technology,1.589935,1.76E-05,"Xilinx, Inc.",0.000622519,3,Xilinx,"Xilinx, Inc. ",NASDAQ,XLNX,_- Information Technology / Semiconductors
+488,2007.1.3,2989301,Consumer Discretionary,1.005078,1.28E-05,"TJX Companies, Inc.",0.001023169,2,TJX Co,TJX Companies Inc ,NYSE,TJX,_- Consumer Discretionary / Apparel Retail
+489,2007.1.3,2989828,Financials,0.698986,7.93E-06,Zions Bancorporation,0.000695191,3,Zions ,Zions Bancorporation ,NASDAQ,ZION,_- Financials / Banks
+490,2007.1.3,8066051,Health Care,0.757358,1.68E-05,Schering-Plough Corp.,0.002735592,1,Scheri,,,,
+491,2007.1.3,B00PWV9,Health Care,0.525267,1.87E-06,"Hospira, Inc.",0.000413588,4,Hospir,"Hospira, Inc. ",NYSE,HSP,_- Health Care / Health Care Equipment & Services
+492,2007.1.3,B011WL6,Financials,1.053376,3.08E-06,"Genworth Financial, Inc. Class A",0.001184103,2,Genwor,Genworth Financial Inc ,NYSE,GNW,_- Financials / Life & Health Insurance
+493,2007.1.3,B01R311,Financials,0.654182,1.80E-05,Regions Financial Corporation,0.002173699,1,Region,Regions Financial Corp ,NYSE,RF,_- Financials / Diversified Financial Services
+494,2007.1.3,B067BM3,Consumer Staples,0.560892,1.24E-05,Molson Coors Brewing Company Class B,0.00027977,4,Molson,Molson Coors Brewing Company ,NYSE,TAP,_- Consumer Staples / Brewers
+495,2007.1.3,B08G9Z7,Information Technology,1.927331,6.54E-07,ADC Telecommunications,0.000135872,5,ADC Te,,,,
+496,2007.1.3,B0F0F09,Information Technology,1.603214,7.12E-06,IAC/InterActiveCorp.,0.001314447,3,IAC/In,,,IAC,
+497,2007.1.3,B0J7D57,Financials,1.657774,3.08E-06,"Ameriprise Financial, Inc.",0.001047754,2,Amerip,"Ameriprise Financial, Inc.",NYSE,AMP,_- Financials / Diversified Financial Services
+498,2007.1.3,B0SRLF4,Consumer Discretionary,0.947911,-1.51E-05,Viacom Inc. Class B,0.002280034,1,Viacom,"Viacom, Inc. ",NASDAQ,VIAB,_- Consumer Discretionary / Broadcasting & Cable TV
+499,2007.1.3,B0SRLH6,Consumer Discretionary,0.562529,1.64E-05,CBS Corporation Class B,0.001936612,2,CBS Co,CBS Corporation,NYSE,CBS,_- Consumer Discretionary / Broadcasting & Cable TV
+500,2007.1.3,B12GHV2,Consumer Discretionary,1.358013,-1.11E-05,"Starwood Hotels & Resorts Worldwide, Inc.",0.001035719,2,Starwo,Starwood Hotels & Resorts Worldwide Inc ,NYSE,HOT,"_- Consumer Discretionary / Hotels, Resorts & Cruise Lines"
+501,2007.1.3,B142VX8,Telecommunication Services,0.920535,3.48E-06,Embarq Corp.,0.00061966,3,Embarq,,,,
+502,2007.1.3,B198380,Financials,4.045821,-1.03E-05,Realogy Corporation,0.000506848,3,Realog,,,RLGY,
+503,2007.1.3,B198391,Consumer Discretionary,2.389292,1.76E-05,Wyndham Worldwide Corporation,0.000506373,3,Wyndha,Wyndham Worldwide Corporation ,NYSE,WYN,"_- Consumer Discretionary / Hotels, Resorts & Cruise Lines"
+504,2007.1.3,B1F76F9,Information Technology,0,1.72E-05,Western Union Company,0.001364955,2,Wester,Western Digital Corp ,NASDAQ,WDC,_- Information Technology / Computer Storage & Peripherals
+505,2007.1.3,B1F76F9,Information Technology,0,1.72E-05,Western Union Company,0.001364955,2,Wester,Western Union Company ,NYSE,WU,_- Information Technology / Internet Software & Services
+506,2007.1.3,B1FLZ21,Information Technology,2.278094,-2.08E-05,Ciena Corporation,0.000183085,5,Ciena ,,,CIEN,
+507,2007.1.3,B1L60G9,Energy,1,-5.59E-07,Spectra Energy Corp,0.001409121,2,Spectr,Spectra Energy Corp. ,NYSE,SE,_- Energy / Oil & Gas Refining & Marketing & Transportation
+508,2007.1.3,B1Z77F6,Financials,1,-7.84E-06,The Bank of New York,0.002378481,1,The Ba,,,BK,
+509,2007.1.3,B28V183,Financials,0.764331,5.10E-06,Marshall & Ilsley,0.000974042,3,Marsha,,,,
+510,2007.1.3,B3KFWW1,Energy,1.188509,-5.59E-07,Transocean Sedco Forex Inc.,0.001779147,1,Transo,Transocean LTD ,NYSE,RIG,_- Energy / Oil & Gas Drilling
+511,2007.1.3,B3Q2FJ4,Industrials,1.075087,1.28E-05,The Stanley Works,0.000323756,4,The St,,,,
+512,2007.1.3,B40K911,Industrials,1.052891,-5.59E-07,Cooper Industries PLC Cl A,0.000649661,3,Cooper,,,,
+513,2007.1.3,B4NH4W5,Consumer Discretionary,0.813027,-1.19E-05,Fortune Brands Inc.,0.001019497,2,Fortun,,,FBHS,
+514,2007.1.3,B5BKPQ4,Information Technology,1,1.20E-05,Motorola Inc.,0.003899495,1,Motoro,Motorola Solutions Inc ,NYSE,MSI,_- Information Technology / Telecommunications Equipment
+515,2007.1.3,B5BT0K0,Financials,1,6.54E-07,Aon plc,0.000859413,3,Aon pl,,,AON,
+516,2007.1.3,B633030,Industrials,1.437685,-5.59E-07,Ingersoll-Rand Plc,0.000933118,2,Ingers,Ingersoll-Rand PLC ,NYSE,IR,_- Industrials / Industrial Conglomerates
+517,2007.1.3,B63QTN2,Consumer Discretionary,0.966808,-5.81E-06,Time Warner Inc.,0.020690883,1,Time W,Time Warner Inc ,NYSE,TWX,_- Consumer Discretionary / Broadcasting & Cable TV
+518,2007.1.3,B63QTN2,Consumer Discretionary,0.966808,-5.81E-06,Time Warner Inc.,0.020690883,1,Time W,Time Warner Cable Inc ,NYSE,TWC,_- Consumer Discretionary / Broadcasting & Cable TV
+519,2007.1.3,B6TFK30,Utilities,1,1.04E-05,Dynegy Inc.,0.000206903,5,Dynegy,,,DYN,
+520,2007.1.3,B6WVMH3,Financials,1.235837,1.80E-05,CB Richard Ellis Group Inc.,0.000487586,3,CB Ric,,,,
+521,2007.1.3,B76FBQ0,Consumer Staples,0.667001,2.50E-07,Sara Lee Corp.,0.000989157,2,Sara L,,,,
+522,2007.1.3,B7QQYV9,Health Care,0.88716,9.55E-06,Express Scripts Holding Company,0.000746313,3,Expres,Express Scripts Holding Company ,NASDAQ,ESRX,_- Health Care / Health Care Distributors & Services
+523,2007.1.3,B7VD3F2,Utilities,0.784612,-2.08E-05,Duke Energy Corporation,0.001884728,1,Duke E,Duke Energy Corp,NYSE,DUK,_- Utilities / Electric Utilities
+524,2007.1.3,B840261,Energy,1.24882,3.48E-06,Rowan Cos. Plc Class A,0.000270369,5,Rowan ,,,RDC,
+525,2007.1.3,B84LSN3,Consumer Discretionary,0.974459,1.12E-05,DirecTV Group Inc.,0.001511215,2,DirecT,,,,
+526,2007.1.3,B8DMK08,Health Care,1.165876,-1.43E-05,Tenet Healthcare Corporation,0.000263892,5,Tenet ,Tenet Healthcare Corp ,NYSE,THC,_- Health Care / Health Care Facilities
+527,2007.1.3,B8KQN82,Industrials,1,1.80E-05,Eaton Corp.,0.000878537,3,Eaton ,Eaton Corp plc,NYSE,ETN,_- Industrials / Industrial Conglomerates
+528,2007.1.3,B92RRW2,Information Technology,2.477664,-1.47E-05,Sanmina-SCI Corp.,0.000869931,5,Sanmin,,,,
+529,2007.1.3,B9M2WX3,Consumer Discretionary,1.10755,1.46E-06,Limited Brands Inc.,0.00079337,3,Limite,,,,
+530,2007.1.3,BBM4S68,Consumer Discretionary,0.864049,1.16E-05,News Corp. Cl A,0.003940868,1,News C,News Corp ,NASDAQ,NWSA,_- Consumer Discretionary / Publishing
+531,2007.1.3,BD5JS97,Consumer Staples,0.611554,3.89E-06,Dean Foods Company,0.000436971,4,Dean F,,,DF,
+532,2007.1.3,BD95VZ8,Financials,0.798743,-5.59E-07,XL Capital Ltd.,0.001016271,2,XL Cap,,,XL,
+533,2007.1.3,BDHLTQ5,Energy,1,-1.15E-05,Baker Hughes Incorporated,0.001798334,1,Baker ,Baker Hughes Incorporated,NYSE,BHI,_- Energy / Oil & Gas Equipment & Services
+534,2007.1.3,BF0FM92,Consumer Staples,0.736412,-1.59E-05,SUPERVALU INC.,0.000581039,3,SUPERV,,,SVU,
+535,2007.1.3,BF0HZC2,Telecommunication Services,1,-5.59E-07,Citizens Communications Co.,0.00036248,4,Citize,,,,
+536,2007.1.3,BF6V3T1,Information Technology,1.446155,-1.75E-05,Yahoo! Inc.,0.002458524,1,Yahoo!,Yahoo! Inc. ,NASDAQ,YHOO,_- Information Technology / Internet Software & Services
+537,2007.1.3,BFG3KF2,Energy,1.057992,-5.59E-07,Noble Corp.,0.000774307,3,Noble ,Noble Corp plc ,NYSE,NE,_- Energy / Oil & Gas Drilling
+538,2007.1.3,BFG3KF2,Energy,1.057992,-5.59E-07,Noble Corp.,0.000774307,3,Noble ,"Noble Energy, Inc. ",NYSE,NBL,_- Energy / Oil & Gas Exploration & Production
+539,2007.1.3,BJWG213,Consumer Discretionary,0.911864,3.48E-06,Liz Claiborne Inc.,0.000354269,4,Liz Cl,,,,
+540,2007.1.3,BLNN369,Energy,0.970204,-5.59E-07,Weatherford International Ltd.,0.001029341,2,Weathe,,,WFT,
+541,2007.1.3,BMH4NJ8,Financials,0.862678,9.95E-06,Synovus Financial Corp.,0.000789504,3,Synovu,,,SNV,
+542,2007.1.3,BSPHGL4,Health Care,0.935593,8.74E-06,"WellPoint, Inc.",0.003801644,1,WellPo,,,WLPFF8.EX,
+543,2007.1.3,BTN1Y11,Health Care,0.023222,4.70E-06,Medtronic Plc,0.004745449,1,Medtro,Medtronic PLC ,NYSE,MDT,_- Health Care / Health Care Equipment & Services
+544,2007.1.3,BTN1Y44,Consumer Staples,0.655712,-4.60E-06,Walgreen Co.,0.003625136,1,Walgre,Walgreens Boots Alliance Inc ,NYSE,WAG,_- Consumer Staples / Drug Retail
+545,2007.1.3,BVFMFG8,Health Care,0.469696,1.80E-05,Mylan Inc.,0.000333016,4,Mylan ,Mylan NV ,NASDAQ,MYL,_- Health Care / Pharmaceuticals
+546,2007.1.3,BWSW5J5,Telecommunication Services,0.397721,1.72E-05,Windstream Corp.,0.000530907,3,Windst,,,WIN,
+547,2007.1.3,BY7QL61,Industrials,1.125556,-5.59E-07,Tyco International PLC,0.004749018,1,Tyco I,Tyco International ,NYSE,TYC,_- Industrials / Industrial Conglomerates
+548,2007.1.3,BY9D546,Health Care,0.680745,7.93E-06,Watson Pharmaceuticals Inc.,0.000211328,5,Watson,,,,
+549,2007.1.3,BYND5N1,Materials,1.12575,1.76E-05,Ashland Inc.,0.000306253,4,Ashlan,,,ASH,
+550,2007.1.3,BYND5W0,Industrials,0.863581,-9.45E-06,R.R. Donnelley & Sons Company,0.000615944,3,R.R. D,,,RRD,
+551,2007.1.3,BYNF418,Materials,1,-1.55E-05,Alcoa Inc.,0.001994321,1,Alcoa ,,,AA,
+552,2007.1.3,BYP66M4,Materials,1,1.04E-05,Dow Chemical Company,0.003016381,1,Dow Ch,Dow Chemical Co,NYSE,DOW,_- Materials / Diversified Chemicals
+553,2007.1.3,BYQQ3P5,Consumer Staples,1,1.48E-05,"Coca-Cola Enterprises, Inc.",0.00044554,4,Coca-C,Coca-Cola Enterprises Inc,NYSE,CCE,_- Consumer Staples / Soft Drinks
+554,2007.1.3,BYV2325,Financials,0.667127,1.60E-05,"S&P Global, Inc.",0.00186346,1,S&P Gl,,,SPGI,
+555,2007.1.3,BYVY8G0,Information Technology,1.152938,-1.59E-05,Google Inc. Cl A,0.007858168,1,Google,Google Inc ,NASDAQ,GOOG,_- Information Technology / Internet Software & Services
+556,2007.1.3,BYWTW73,Information Technology,1.029504,1.52E-05,Xerox Corporation,0.001279243,2,Xerox ,Xerox Corp ,NYSE,XRX,_- Information Technology / IT Consulting & Services
+557,2007.1.3,BYX4D52,Information Technology,1.15545,5.51E-06,Hewlett-Packard Company,0.008939254,1,Hewlet,Hewlett-Packard Company ,NYSE,HPQ,_- Information Technology / Computer Hardware
+558,2007.1.3,BYXB201,Information Technology,2.087682,-2.98E-06,JDS Uniphase Corporation,0.000284709,5,JDS Un,,,,
+559,2007.1.3,BYXD7B3,Information Technology,1,-1.23E-05,Computer Sciences Corporation,0.000699422,3,Comput,Computer Sciences Corporation,NYSE,CSC,_- Information Technology / IT Consulting & Services
+560,2007.1.3,BYZGYC0,Industrials,1.027065,1.56E-05,"L-3 Communications Holdings, Inc.",0.000800424,3,L-3 Co,"L-3 Communications Holdings, Inc. ",NYSE,LLL,_- Industrials / Industrial Conglomerates
+561,2007.1.3,BZ0P3Z5,Consumer Discretionary,0.518197,9.95E-06,"Gannett Co., Inc.",0.00110265,2,Gannet,"Gannett Co., Inc. ",NYSE,GCI,_- Consumer Discretionary / Publishing
+562,2007.1.3,BZ2Y3W7,Energy,1.739406,-7.03E-06,Peabody Energy Corporation,0.000782822,3,Peabod,,,BTU,
+563,2007.1.3,BZBY209,Industrials,1.016948,1.08E-05,"ITT, Inc.",0.000820495,3,"ITT, I",,,ITT,
