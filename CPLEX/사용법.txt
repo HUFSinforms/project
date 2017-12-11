@@ -1,0 +1,6 @@
+pickle_make 파일로 우선 피클파일들을 생성해주고
+그 다음 example파일이 돌리는 예시인데
+여기서 asset_index_list는 넣어주는 asset들의 index list이고 여기서는 무작위 60개로 들어갔다.
+그 다음에는 end_cond 인데 바이너리가 끝나는 조건인데 
+바이너리 서치 값 사이의 수치가 end_cond 보다 낮아지면 종료된다.
+혹시 몰라서 pickle 파일들이 들어있는 폴더도 첨부
