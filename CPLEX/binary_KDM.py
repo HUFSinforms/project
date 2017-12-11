@@ -99,7 +99,7 @@ def binary_search(asset_index_list,end_cond):
 
     end = False
 
-    if active_share >= 0.6 or TE >= 0.0025:
+    if active_share >= 0.6 and TE >= 0.0025:
         return list_result
         end = False
     else:
