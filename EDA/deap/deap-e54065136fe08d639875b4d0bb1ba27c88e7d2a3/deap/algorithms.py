@@ -421,6 +421,7 @@ def eaGenerateUpdate(toolbox, ngen, halloffame=None, stats=None,
     logbook.header = ['gen', 'nevals'] + (stats.fields if stats else [])
 
     for gen in xrange(ngen):
+        print('t')
         # Generate a new population
         population = toolbox.generate()
         # Evaluate the individuals
