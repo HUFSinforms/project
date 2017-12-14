@@ -105,7 +105,7 @@ def portfolio(sector,bench,asset,MCAPQ,beta,alpha,qmat,Q_con,returns,sols,w_upsu
     c.objective.set_sense(c.objective.sense.minimize)
     c.solve()
     abcd=[]
-    ab={}
+    ab=[]
     cd={}
 
     numa = 0
@@ -121,4 +121,4 @@ def portfolio(sector,bench,asset,MCAPQ,beta,alpha,qmat,Q_con,returns,sols,w_upsu
     abcd.append(ab)
     abcd.append(cd)
     abcd.append(c.solution.get_objective_value())
-    return abcd
+    return ab
